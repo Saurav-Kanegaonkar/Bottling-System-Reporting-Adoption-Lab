@@ -1,15 +1,22 @@
 # Executive Findings
 
-## What I analyzed
+## What I Analyzed
 
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for bottling system BI reporting adoption.
+I modeled 32 reporting assets, 4,480 daily adoption and quality rows, 1,920 refresh runs, 192 data quality checks, 160 lineage dependencies, 96 metric definitions, 195 stakeholder requests, 64 documentation assets, and 77 training sessions.
 
 ## Findings
 
-- The highest-priority reporting product is REP008 with a priority score of 100.67.
-- The top queue combines 50.0 average risk with 80.4 quality score and $887,378 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
+- The highest-priority assets combine refresh SLA misses, failed validation checks, adoption gaps, stakeholder urgency, and lineage exceptions.
+- Documentation and metric certification are not separate from reporting delivery. They directly affect adoption and stakeholder confidence.
+- The work is strongest when reporting services connects source reliability, metric definitions, training, and stakeholder routines in one queue.
+- Quality issues cluster around freshness, reconciliation, schema drift, and source ownership. These are the right issues to bring into operating reviews before scaling usage.
 
 ## Recommendation
 
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which reporting product risks need action, validation, or monitoring.
+Use the priority queue to separate three lanes:
+
+- Remediate before scale.
+- Validate with stakeholders.
+- Publish and monitor.
+
+The next best operating rhythm is a weekly reporting services review that looks at the top priority assets, failed checks, critical lineage exceptions, stale documentation, and ambiguous stakeholder asks together.

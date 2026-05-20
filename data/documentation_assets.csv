@@ -1,0 +1,65 @@
+doc_id,report_id,doc_type,status,last_reviewed_days,owner
+DOC-RPT001-metric-guide,RPT001,metric guide,Missing,53,reporting services
+DOC-RPT001-refresh-note,RPT001,refresh note,Missing,34,customer data operations
+DOC-RPT002-metric-guide,RPT002,metric guide,Current,17,BI delivery
+DOC-RPT002-refresh-note,RPT002,refresh note,Current,9,data strategy
+DOC-RPT003-metric-guide,RPT003,metric guide,Current,5,customer data operations
+DOC-RPT003-refresh-note,RPT003,refresh note,Missing,75,data strategy
+DOC-RPT004-metric-guide,RPT004,metric guide,Needs update,12,governance and training
+DOC-RPT004-refresh-note,RPT004,refresh note,Missing,30,data strategy
+DOC-RPT005-metric-guide,RPT005,metric guide,Current,109,customer data operations
+DOC-RPT005-refresh-note,RPT005,refresh note,Needs update,10,governance and training
+DOC-RPT006-metric-guide,RPT006,metric guide,Needs update,50,governance and training
+DOC-RPT006-refresh-note,RPT006,refresh note,Needs update,37,customer data operations
+DOC-RPT007-metric-guide,RPT007,metric guide,Needs update,84,data strategy
+DOC-RPT007-refresh-note,RPT007,refresh note,Needs update,118,customer data operations
+DOC-RPT008-metric-guide,RPT008,metric guide,Missing,34,customer data operations
+DOC-RPT008-refresh-note,RPT008,refresh note,Missing,105,finance analytics
+DOC-RPT009-metric-guide,RPT009,metric guide,Needs update,100,customer data operations
+DOC-RPT009-refresh-note,RPT009,refresh note,Needs update,61,governance and training
+DOC-RPT010-metric-guide,RPT010,metric guide,Missing,12,BI delivery
+DOC-RPT010-refresh-note,RPT010,refresh note,Missing,99,finance analytics
+DOC-RPT011-metric-guide,RPT011,metric guide,Missing,2,reporting services
+DOC-RPT011-refresh-note,RPT011,refresh note,Needs update,109,data strategy
+DOC-RPT012-metric-guide,RPT012,metric guide,Current,5,data strategy
+DOC-RPT012-refresh-note,RPT012,refresh note,Needs update,100,customer data operations
+DOC-RPT013-metric-guide,RPT013,metric guide,Needs update,111,data strategy
+DOC-RPT013-refresh-note,RPT013,refresh note,Missing,27,BI delivery
+DOC-RPT014-metric-guide,RPT014,metric guide,Current,71,BI delivery
+DOC-RPT014-refresh-note,RPT014,refresh note,Missing,119,reporting services
+DOC-RPT015-metric-guide,RPT015,metric guide,Missing,12,BI delivery
+DOC-RPT015-refresh-note,RPT015,refresh note,Current,100,reporting services
+DOC-RPT016-metric-guide,RPT016,metric guide,Needs update,89,customer data operations
+DOC-RPT016-refresh-note,RPT016,refresh note,Needs update,18,BI delivery
+DOC-RPT017-metric-guide,RPT017,metric guide,Current,74,finance analytics
+DOC-RPT017-refresh-note,RPT017,refresh note,Current,110,governance and training
+DOC-RPT018-metric-guide,RPT018,metric guide,Missing,54,finance analytics
+DOC-RPT018-refresh-note,RPT018,refresh note,Missing,57,reporting services
+DOC-RPT019-metric-guide,RPT019,metric guide,Needs update,70,finance analytics
+DOC-RPT019-refresh-note,RPT019,refresh note,Missing,83,governance and training
+DOC-RPT020-metric-guide,RPT020,metric guide,Missing,94,BI delivery
+DOC-RPT020-refresh-note,RPT020,refresh note,Missing,47,governance and training
+DOC-RPT021-metric-guide,RPT021,metric guide,Current,81,finance analytics
+DOC-RPT021-refresh-note,RPT021,refresh note,Needs update,95,governance and training
+DOC-RPT022-metric-guide,RPT022,metric guide,Missing,13,reporting services
+DOC-RPT022-refresh-note,RPT022,refresh note,Missing,84,finance analytics
+DOC-RPT023-metric-guide,RPT023,metric guide,Missing,13,reporting services
+DOC-RPT023-refresh-note,RPT023,refresh note,Missing,91,governance and training
+DOC-RPT024-metric-guide,RPT024,metric guide,Missing,9,governance and training
+DOC-RPT024-refresh-note,RPT024,refresh note,Missing,65,customer data operations
+DOC-RPT025-metric-guide,RPT025,metric guide,Current,14,finance analytics
+DOC-RPT025-refresh-note,RPT025,refresh note,Needs update,97,reporting services
+DOC-RPT026-metric-guide,RPT026,metric guide,Missing,32,governance and training
+DOC-RPT026-refresh-note,RPT026,refresh note,Needs update,68,customer data operations
+DOC-RPT027-metric-guide,RPT027,metric guide,Needs update,15,customer data operations
+DOC-RPT027-refresh-note,RPT027,refresh note,Missing,23,finance analytics
+DOC-RPT028-metric-guide,RPT028,metric guide,Current,50,data strategy
+DOC-RPT028-refresh-note,RPT028,refresh note,Needs update,63,data strategy
+DOC-RPT029-metric-guide,RPT029,metric guide,Needs update,53,data strategy
+DOC-RPT029-refresh-note,RPT029,refresh note,Needs update,2,reporting services
+DOC-RPT030-metric-guide,RPT030,metric guide,Needs update,56,reporting services
+DOC-RPT030-refresh-note,RPT030,refresh note,Missing,25,data strategy
+DOC-RPT031-metric-guide,RPT031,metric guide,Current,33,reporting services
+DOC-RPT031-refresh-note,RPT031,refresh note,Missing,86,data strategy
+DOC-RPT032-metric-guide,RPT032,metric guide,Current,64,customer data operations
+DOC-RPT032-refresh-note,RPT032,refresh note,Needs update,41,finance analytics

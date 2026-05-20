@@ -1,37 +1,33 @@
-entity_id,entity_name,segment,owner
-REP001,Reporting product 1,Strategic,Operations
-REP002,Reporting product 2,Strategic,Customer
-REP003,Reporting product 3,Watch,Customer
-REP004,Reporting product 4,Growth,Operations
-REP005,Reporting product 5,Strategic,Operations
-REP006,Reporting product 6,Strategic,Operations
-REP007,Reporting product 7,Strategic,Product
-REP008,Reporting product 8,Core,Product
-REP009,Reporting product 9,Watch,Revenue
-REP010,Reporting product 10,Watch,Customer
-REP011,Reporting product 11,Strategic,Product
-REP012,Reporting product 12,Strategic,Operations
-REP013,Reporting product 13,Growth,Analytics
-REP014,Reporting product 14,Growth,Customer
-REP015,Reporting product 15,Watch,Operations
-REP016,Reporting product 16,Core,Analytics
-REP017,Reporting product 17,Core,Customer
-REP018,Reporting product 18,Core,Revenue
-REP019,Reporting product 19,Core,Customer
-REP020,Reporting product 20,Strategic,Operations
-REP021,Reporting product 21,Core,Revenue
-REP022,Reporting product 22,Growth,Product
-REP023,Reporting product 23,Watch,Customer
-REP024,Reporting product 24,Core,Product
-REP025,Reporting product 25,Core,Customer
-REP026,Reporting product 26,Strategic,Customer
-REP027,Reporting product 27,Core,Product
-REP028,Reporting product 28,Watch,Product
-REP029,Reporting product 29,Strategic,Customer
-REP030,Reporting product 30,Watch,Analytics
-REP031,Reporting product 31,Watch,Customer
-REP032,Reporting product 32,Growth,Customer
-REP033,Reporting product 33,Strategic,Product
-REP034,Reporting product 34,Growth,Analytics
-REP035,Reporting product 35,Growth,Revenue
-REP036,Reporting product 36,Core,Customer
+report_id,report_name,domain,business_context,audience,owner_group,workspace,source_system,refresh_cadence,power_bi_asset_type,complexity,rls_required,decision_value,doc_status,published_state
+RPT001,National Customer Scorecard,Customer Programs,customer program funding and compliance,category management,customer data operations,Customer Operations,bottler invoice hub,Daily,Paginated report,High,Yes,83000,Current,Promoted
+RPT002,Bottler Invoice Reconciliation,Retailer POS,sell-through and syndicated retail performance,field sales operations,finance analytics,Bottler Finance,retailer POS feed,Daily,Dataflow,High,Yes,81000,Current,Certified
+RPT003,Retailer POS Sell-Through,Bottler Invoice,invoice-level bottler sales and adjustments,supply planning,governance and training,Planning and Forecasting,customer hierarchy master,Daily,Semantic model,Low,Yes,114000,Missing,Legacy
+RPT004,Trade Program Funding Tracker,Distributor Data,secondary sales and distributor reconciliation,commercial leadership,BI delivery,Reporting Services,trade program system,Weekly,Dashboard,Low,Yes,169000,Missing,Legacy
+RPT005,Customer Hierarchy Health,Customer Hierarchy,"customer, banner, outlet, and route alignment",national customer team,data strategy,Commercial Insights,planning workbook intake,Daily,Semantic model,Medium,No,126000,Current,Certified
+RPT006,Distributor Volume Bridge,FP&A Planning,"forecasting, plan variance, and scenario routines",bottler finance leads,reporting services,Customer Operations,distributor reconciliation feed,Weekly,Paginated report,Medium,Yes,79000,Needs update,Certified
+RPT007,Forecast Variance Review,Customer Programs,customer program funding and compliance,category management,customer data operations,Bottler Finance,customer EDI gateway,Daily,Dataflow,High,Yes,172000,Missing,Draft
+RPT008,Outlet Segmentation Monitor,Retailer POS,sell-through and syndicated retail performance,field sales operations,finance analytics,Planning and Forecasting,bottler invoice hub,Weekly,Semantic model,High,Yes,213000,Current,Certified
+RPT009,Pricing Exception Digest,Bottler Invoice,invoice-level bottler sales and adjustments,supply planning,governance and training,Reporting Services,retailer POS feed,Weekly,Dashboard,High,Yes,113000,Current,Legacy
+RPT010,Customer Onboarding Readiness,Distributor Data,secondary sales and distributor reconciliation,commercial leadership,BI delivery,Commercial Insights,customer hierarchy master,Weekly,Semantic model,Medium,No,171000,Needs update,Promoted
+RPT011,Promotion Compliance View,Customer Hierarchy,"customer, banner, outlet, and route alignment",national customer team,data strategy,Customer Operations,trade program system,Daily,Semantic model,High,Yes,123000,Missing,Promoted
+RPT012,Route-to-Market Snapshot,FP&A Planning,"forecasting, plan variance, and scenario routines",bottler finance leads,reporting services,Bottler Finance,planning workbook intake,Intraday,Paginated report,Low,Yes,173000,Missing,Promoted
+RPT013,Monthly Business Review Pack,Customer Programs,customer program funding and compliance,category management,customer data operations,Planning and Forecasting,distributor reconciliation feed,Daily,Semantic model,High,Yes,138000,Needs update,Legacy
+RPT014,Invoice Adjustment Explorer,Retailer POS,sell-through and syndicated retail performance,field sales operations,finance analytics,Reporting Services,customer EDI gateway,Daily,Paginated report,Medium,Yes,71000,Missing,Legacy
+RPT015,Retailer Data Quality Pulse,Bottler Invoice,invoice-level bottler sales and adjustments,supply planning,governance and training,Commercial Insights,bottler invoice hub,Intraday,Semantic model,Medium,No,219000,Current,Promoted
+RPT016,Bottler Performance Summary,Distributor Data,secondary sales and distributor reconciliation,commercial leadership,BI delivery,Customer Operations,retailer POS feed,Weekly,Dataflow,High,Yes,198000,Needs update,Draft
+RPT017,Program Accrual Watchlist,Customer Hierarchy,"customer, banner, outlet, and route alignment",national customer team,data strategy,Bottler Finance,customer hierarchy master,Intraday,Dashboard,Low,Yes,90000,Current,Promoted
+RPT018,Executive KPI Overview,FP&A Planning,"forecasting, plan variance, and scenario routines",bottler finance leads,reporting services,Planning and Forecasting,trade program system,Intraday,Dashboard,High,No,95000,Needs update,Legacy
+RPT019,Channel Penetration Trends,Customer Programs,customer program funding and compliance,category management,customer data operations,Reporting Services,planning workbook intake,Daily,Dashboard,High,Yes,119000,Missing,Draft
+RPT020,Stakeholder Request Backlog,Retailer POS,sell-through and syndicated retail performance,field sales operations,finance analytics,Commercial Insights,distributor reconciliation feed,Daily,Paginated report,High,No,142000,Current,Legacy
+RPT021,Store Count Reconciliation,Bottler Invoice,invoice-level bottler sales and adjustments,supply planning,governance and training,Customer Operations,customer EDI gateway,Weekly,Semantic model,Low,Yes,239000,Current,Draft
+RPT022,Funding Claim Audit,Distributor Data,secondary sales and distributor reconciliation,commercial leadership,BI delivery,Bottler Finance,bottler invoice hub,Daily,Semantic model,High,No,184000,Current,Certified
+RPT023,Planning Assumption Tracker,Customer Hierarchy,"customer, banner, outlet, and route alignment",national customer team,data strategy,Planning and Forecasting,retailer POS feed,Intraday,Dashboard,High,Yes,137000,Needs update,Draft
+RPT024,Data Stewardship Queue,FP&A Planning,"forecasting, plan variance, and scenario routines",bottler finance leads,reporting services,Reporting Services,customer hierarchy master,Daily,Dashboard,Low,Yes,69000,Missing,Legacy
+RPT025,Power BI Usage and Training,Customer Programs,customer program funding and compliance,category management,customer data operations,Commercial Insights,trade program system,Daily,Semantic model,Low,Yes,191000,Needs update,Promoted
+RPT026,Source Refresh Reliability,Retailer POS,sell-through and syndicated retail performance,field sales operations,finance analytics,Customer Operations,planning workbook intake,Intraday,Semantic model,Medium,Yes,190000,Missing,Promoted
+RPT027,Metric Definition Catalog,Bottler Invoice,invoice-level bottler sales and adjustments,supply planning,governance and training,Bottler Finance,distributor reconciliation feed,Intraday,Paginated report,High,No,134000,Missing,Legacy
+RPT028,Variance Contribution Workbench,Distributor Data,secondary sales and distributor reconciliation,commercial leadership,BI delivery,Planning and Forecasting,customer EDI gateway,Daily,Dashboard,Low,No,118000,Current,Promoted
+RPT029,Churn and Penetration Monitor,Customer Hierarchy,"customer, banner, outlet, and route alignment",national customer team,data strategy,Reporting Services,bottler invoice hub,Daily,Dashboard,High,Yes,111000,Missing,Certified
+RPT030,Change Contribution Review,FP&A Planning,"forecasting, plan variance, and scenario routines",bottler finance leads,reporting services,Commercial Insights,retailer POS feed,Daily,Paginated report,Low,Yes,72000,Missing,Promoted
+RPT031,Sales Team Service Desk,Customer Programs,customer program funding and compliance,category management,customer data operations,Customer Operations,customer hierarchy master,Intraday,Semantic model,Medium,Yes,226000,Current,Legacy
+RPT032,External Reporting Package,Retailer POS,sell-through and syndicated retail performance,field sales operations,finance analytics,Bottler Finance,trade program system,Intraday,Semantic model,Low,Yes,176000,Current,Legacy

@@ -1,0 +1,161 @@
+lineage_id,report_id,source_system,pipeline_stage,dependency_tier,owner,last_validated_days,open_exception,business_impact
+LIN-RPT001-landing,RPT001,bottler invoice hub,landing,Important,governance and training,47,No,late invoice adjustment
+LIN-RPT001-validation,RPT001,bottler invoice hub,validation,Important,governance and training,38,No,missing store mapping
+LIN-RPT001-warehouse-model,RPT001,bottler invoice hub,warehouse model,Important,governance and training,50,No,late invoice adjustment
+LIN-RPT001-semantic-model,RPT001,bottler invoice hub,semantic model,Standard,governance and training,17,Yes,late invoice adjustment
+LIN-RPT001-published-report,RPT001,bottler invoice hub,published report,Important,reporting services,10,No,missing store mapping
+LIN-RPT002-landing,RPT002,retailer POS feed,landing,Standard,customer data operations,41,Yes,metric delay
+LIN-RPT002-validation,RPT002,retailer POS feed,validation,Critical,data strategy,30,No,metric delay
+LIN-RPT002-warehouse-model,RPT002,retailer POS feed,warehouse model,Critical,reporting services,54,Yes,incorrect segmentation
+LIN-RPT002-semantic-model,RPT002,retailer POS feed,semantic model,Standard,reporting services,62,Yes,metric delay
+LIN-RPT002-published-report,RPT002,retailer POS feed,published report,Important,BI delivery,48,No,incorrect segmentation
+LIN-RPT003-landing,RPT003,customer hierarchy master,landing,Important,data strategy,1,No,incorrect segmentation
+LIN-RPT003-validation,RPT003,customer hierarchy master,validation,Important,data strategy,0,No,none
+LIN-RPT003-warehouse-model,RPT003,customer hierarchy master,warehouse model,Standard,governance and training,53,No,none
+LIN-RPT003-semantic-model,RPT003,customer hierarchy master,semantic model,Standard,BI delivery,48,No,missing store mapping
+LIN-RPT003-published-report,RPT003,customer hierarchy master,published report,Standard,customer data operations,14,No,late invoice adjustment
+LIN-RPT004-landing,RPT004,trade program system,landing,Important,BI delivery,50,Yes,metric delay
+LIN-RPT004-validation,RPT004,trade program system,validation,Standard,customer data operations,58,No,missing store mapping
+LIN-RPT004-warehouse-model,RPT004,trade program system,warehouse model,Critical,BI delivery,34,No,metric delay
+LIN-RPT004-semantic-model,RPT004,trade program system,semantic model,Important,governance and training,60,No,none
+LIN-RPT004-published-report,RPT004,trade program system,published report,Important,governance and training,25,No,none
+LIN-RPT005-landing,RPT005,planning workbook intake,landing,Critical,reporting services,52,No,metric delay
+LIN-RPT005-validation,RPT005,planning workbook intake,validation,Critical,finance analytics,49,Yes,metric delay
+LIN-RPT005-warehouse-model,RPT005,planning workbook intake,warehouse model,Critical,customer data operations,34,Yes,late invoice adjustment
+LIN-RPT005-semantic-model,RPT005,planning workbook intake,semantic model,Standard,data strategy,19,Yes,none
+LIN-RPT005-published-report,RPT005,planning workbook intake,published report,Standard,BI delivery,65,Yes,late invoice adjustment
+LIN-RPT006-landing,RPT006,distributor reconciliation feed,landing,Critical,finance analytics,39,Yes,late invoice adjustment
+LIN-RPT006-validation,RPT006,distributor reconciliation feed,validation,Important,finance analytics,65,Yes,incorrect segmentation
+LIN-RPT006-warehouse-model,RPT006,distributor reconciliation feed,warehouse model,Important,data strategy,58,No,none
+LIN-RPT006-semantic-model,RPT006,distributor reconciliation feed,semantic model,Important,finance analytics,50,Yes,late invoice adjustment
+LIN-RPT006-published-report,RPT006,distributor reconciliation feed,published report,Standard,customer data operations,32,Yes,incorrect segmentation
+LIN-RPT007-landing,RPT007,customer EDI gateway,landing,Critical,data strategy,1,No,none
+LIN-RPT007-validation,RPT007,customer EDI gateway,validation,Critical,customer data operations,8,No,missing store mapping
+LIN-RPT007-warehouse-model,RPT007,customer EDI gateway,warehouse model,Important,reporting services,45,No,metric delay
+LIN-RPT007-semantic-model,RPT007,customer EDI gateway,semantic model,Standard,data strategy,49,No,incorrect segmentation
+LIN-RPT007-published-report,RPT007,customer EDI gateway,published report,Critical,governance and training,11,No,missing store mapping
+LIN-RPT008-landing,RPT008,bottler invoice hub,landing,Important,customer data operations,8,No,metric delay
+LIN-RPT008-validation,RPT008,bottler invoice hub,validation,Critical,data strategy,23,No,late invoice adjustment
+LIN-RPT008-warehouse-model,RPT008,bottler invoice hub,warehouse model,Important,finance analytics,15,Yes,incorrect segmentation
+LIN-RPT008-semantic-model,RPT008,bottler invoice hub,semantic model,Important,BI delivery,53,No,metric delay
+LIN-RPT008-published-report,RPT008,bottler invoice hub,published report,Critical,reporting services,21,Yes,incorrect segmentation
+LIN-RPT009-landing,RPT009,retailer POS feed,landing,Critical,BI delivery,47,Yes,late invoice adjustment
+LIN-RPT009-validation,RPT009,retailer POS feed,validation,Critical,data strategy,60,Yes,metric delay
+LIN-RPT009-warehouse-model,RPT009,retailer POS feed,warehouse model,Standard,BI delivery,8,No,metric delay
+LIN-RPT009-semantic-model,RPT009,retailer POS feed,semantic model,Critical,governance and training,9,Yes,incorrect segmentation
+LIN-RPT009-published-report,RPT009,retailer POS feed,published report,Important,finance analytics,2,No,missing store mapping
+LIN-RPT010-landing,RPT010,customer hierarchy master,landing,Important,finance analytics,6,No,late invoice adjustment
+LIN-RPT010-validation,RPT010,customer hierarchy master,validation,Critical,reporting services,36,Yes,missing store mapping
+LIN-RPT010-warehouse-model,RPT010,customer hierarchy master,warehouse model,Standard,reporting services,8,No,metric delay
+LIN-RPT010-semantic-model,RPT010,customer hierarchy master,semantic model,Critical,data strategy,32,No,late invoice adjustment
+LIN-RPT010-published-report,RPT010,customer hierarchy master,published report,Critical,finance analytics,11,Yes,metric delay
+LIN-RPT011-landing,RPT011,trade program system,landing,Critical,governance and training,20,No,none
+LIN-RPT011-validation,RPT011,trade program system,validation,Critical,BI delivery,2,Yes,none
+LIN-RPT011-warehouse-model,RPT011,trade program system,warehouse model,Important,governance and training,6,Yes,late invoice adjustment
+LIN-RPT011-semantic-model,RPT011,trade program system,semantic model,Critical,BI delivery,37,No,metric delay
+LIN-RPT011-published-report,RPT011,trade program system,published report,Important,governance and training,54,Yes,late invoice adjustment
+LIN-RPT012-landing,RPT012,planning workbook intake,landing,Standard,BI delivery,61,No,incorrect segmentation
+LIN-RPT012-validation,RPT012,planning workbook intake,validation,Critical,reporting services,20,No,late invoice adjustment
+LIN-RPT012-warehouse-model,RPT012,planning workbook intake,warehouse model,Important,BI delivery,3,No,none
+LIN-RPT012-semantic-model,RPT012,planning workbook intake,semantic model,Critical,reporting services,19,No,metric delay
+LIN-RPT012-published-report,RPT012,planning workbook intake,published report,Important,finance analytics,61,No,none
+LIN-RPT013-landing,RPT013,distributor reconciliation feed,landing,Critical,reporting services,61,No,missing store mapping
+LIN-RPT013-validation,RPT013,distributor reconciliation feed,validation,Standard,BI delivery,29,No,incorrect segmentation
+LIN-RPT013-warehouse-model,RPT013,distributor reconciliation feed,warehouse model,Standard,reporting services,8,Yes,none
+LIN-RPT013-semantic-model,RPT013,distributor reconciliation feed,semantic model,Important,BI delivery,57,No,none
+LIN-RPT013-published-report,RPT013,distributor reconciliation feed,published report,Critical,finance analytics,55,No,incorrect segmentation
+LIN-RPT014-landing,RPT014,customer EDI gateway,landing,Critical,reporting services,38,Yes,late invoice adjustment
+LIN-RPT014-validation,RPT014,customer EDI gateway,validation,Important,reporting services,12,Yes,missing store mapping
+LIN-RPT014-warehouse-model,RPT014,customer EDI gateway,warehouse model,Critical,reporting services,64,No,incorrect segmentation
+LIN-RPT014-semantic-model,RPT014,customer EDI gateway,semantic model,Important,BI delivery,4,No,metric delay
+LIN-RPT014-published-report,RPT014,customer EDI gateway,published report,Standard,customer data operations,29,No,missing store mapping
+LIN-RPT015-landing,RPT015,bottler invoice hub,landing,Critical,data strategy,18,No,late invoice adjustment
+LIN-RPT015-validation,RPT015,bottler invoice hub,validation,Critical,customer data operations,7,Yes,missing store mapping
+LIN-RPT015-warehouse-model,RPT015,bottler invoice hub,warehouse model,Critical,reporting services,21,No,none
+LIN-RPT015-semantic-model,RPT015,bottler invoice hub,semantic model,Standard,data strategy,46,Yes,missing store mapping
+LIN-RPT015-published-report,RPT015,bottler invoice hub,published report,Important,data strategy,35,No,none
+LIN-RPT016-landing,RPT016,retailer POS feed,landing,Standard,BI delivery,30,Yes,metric delay
+LIN-RPT016-validation,RPT016,retailer POS feed,validation,Standard,BI delivery,40,Yes,missing store mapping
+LIN-RPT016-warehouse-model,RPT016,retailer POS feed,warehouse model,Important,customer data operations,35,No,missing store mapping
+LIN-RPT016-semantic-model,RPT016,retailer POS feed,semantic model,Standard,data strategy,46,No,incorrect segmentation
+LIN-RPT016-published-report,RPT016,retailer POS feed,published report,Standard,data strategy,60,No,metric delay
+LIN-RPT017-landing,RPT017,customer hierarchy master,landing,Critical,data strategy,63,No,metric delay
+LIN-RPT017-validation,RPT017,customer hierarchy master,validation,Important,reporting services,21,No,incorrect segmentation
+LIN-RPT017-warehouse-model,RPT017,customer hierarchy master,warehouse model,Critical,governance and training,28,No,missing store mapping
+LIN-RPT017-semantic-model,RPT017,customer hierarchy master,semantic model,Standard,reporting services,18,No,incorrect segmentation
+LIN-RPT017-published-report,RPT017,customer hierarchy master,published report,Critical,reporting services,61,Yes,late invoice adjustment
+LIN-RPT018-landing,RPT018,trade program system,landing,Important,customer data operations,21,Yes,metric delay
+LIN-RPT018-validation,RPT018,trade program system,validation,Important,data strategy,28,No,metric delay
+LIN-RPT018-warehouse-model,RPT018,trade program system,warehouse model,Standard,customer data operations,33,Yes,missing store mapping
+LIN-RPT018-semantic-model,RPT018,trade program system,semantic model,Important,governance and training,5,No,none
+LIN-RPT018-published-report,RPT018,trade program system,published report,Standard,finance analytics,37,No,late invoice adjustment
+LIN-RPT019-landing,RPT019,planning workbook intake,landing,Critical,finance analytics,20,Yes,late invoice adjustment
+LIN-RPT019-validation,RPT019,planning workbook intake,validation,Standard,reporting services,44,Yes,late invoice adjustment
+LIN-RPT019-warehouse-model,RPT019,planning workbook intake,warehouse model,Critical,data strategy,24,Yes,late invoice adjustment
+LIN-RPT019-semantic-model,RPT019,planning workbook intake,semantic model,Standard,customer data operations,20,Yes,missing store mapping
+LIN-RPT019-published-report,RPT019,planning workbook intake,published report,Critical,customer data operations,27,No,metric delay
+LIN-RPT020-landing,RPT020,distributor reconciliation feed,landing,Critical,BI delivery,47,No,none
+LIN-RPT020-validation,RPT020,distributor reconciliation feed,validation,Standard,governance and training,17,No,incorrect segmentation
+LIN-RPT020-warehouse-model,RPT020,distributor reconciliation feed,warehouse model,Standard,governance and training,10,No,late invoice adjustment
+LIN-RPT020-semantic-model,RPT020,distributor reconciliation feed,semantic model,Important,BI delivery,8,No,missing store mapping
+LIN-RPT020-published-report,RPT020,distributor reconciliation feed,published report,Standard,data strategy,57,Yes,metric delay
+LIN-RPT021-landing,RPT021,customer EDI gateway,landing,Standard,reporting services,12,No,late invoice adjustment
+LIN-RPT021-validation,RPT021,customer EDI gateway,validation,Important,reporting services,48,Yes,none
+LIN-RPT021-warehouse-model,RPT021,customer EDI gateway,warehouse model,Critical,governance and training,53,No,late invoice adjustment
+LIN-RPT021-semantic-model,RPT021,customer EDI gateway,semantic model,Standard,data strategy,56,Yes,none
+LIN-RPT021-published-report,RPT021,customer EDI gateway,published report,Critical,customer data operations,1,Yes,metric delay
+LIN-RPT022-landing,RPT022,bottler invoice hub,landing,Critical,reporting services,31,Yes,incorrect segmentation
+LIN-RPT022-validation,RPT022,bottler invoice hub,validation,Critical,finance analytics,9,No,incorrect segmentation
+LIN-RPT022-warehouse-model,RPT022,bottler invoice hub,warehouse model,Critical,data strategy,49,No,late invoice adjustment
+LIN-RPT022-semantic-model,RPT022,bottler invoice hub,semantic model,Critical,governance and training,46,No,late invoice adjustment
+LIN-RPT022-published-report,RPT022,bottler invoice hub,published report,Important,reporting services,36,No,metric delay
+LIN-RPT023-landing,RPT023,retailer POS feed,landing,Standard,governance and training,41,No,incorrect segmentation
+LIN-RPT023-validation,RPT023,retailer POS feed,validation,Standard,data strategy,1,Yes,incorrect segmentation
+LIN-RPT023-warehouse-model,RPT023,retailer POS feed,warehouse model,Important,customer data operations,32,Yes,missing store mapping
+LIN-RPT023-semantic-model,RPT023,retailer POS feed,semantic model,Standard,finance analytics,49,No,incorrect segmentation
+LIN-RPT023-published-report,RPT023,retailer POS feed,published report,Critical,BI delivery,57,No,none
+LIN-RPT024-landing,RPT024,customer hierarchy master,landing,Critical,customer data operations,5,Yes,late invoice adjustment
+LIN-RPT024-validation,RPT024,customer hierarchy master,validation,Critical,finance analytics,25,Yes,none
+LIN-RPT024-warehouse-model,RPT024,customer hierarchy master,warehouse model,Important,reporting services,9,No,late invoice adjustment
+LIN-RPT024-semantic-model,RPT024,customer hierarchy master,semantic model,Critical,finance analytics,25,Yes,incorrect segmentation
+LIN-RPT024-published-report,RPT024,customer hierarchy master,published report,Critical,data strategy,9,No,incorrect segmentation
+LIN-RPT025-landing,RPT025,trade program system,landing,Critical,finance analytics,48,No,missing store mapping
+LIN-RPT025-validation,RPT025,trade program system,validation,Critical,data strategy,62,Yes,missing store mapping
+LIN-RPT025-warehouse-model,RPT025,trade program system,warehouse model,Critical,customer data operations,13,No,incorrect segmentation
+LIN-RPT025-semantic-model,RPT025,trade program system,semantic model,Important,governance and training,24,Yes,metric delay
+LIN-RPT025-published-report,RPT025,trade program system,published report,Important,customer data operations,42,Yes,late invoice adjustment
+LIN-RPT026-landing,RPT026,planning workbook intake,landing,Standard,reporting services,4,Yes,none
+LIN-RPT026-validation,RPT026,planning workbook intake,validation,Important,finance analytics,38,No,incorrect segmentation
+LIN-RPT026-warehouse-model,RPT026,planning workbook intake,warehouse model,Standard,reporting services,21,Yes,none
+LIN-RPT026-semantic-model,RPT026,planning workbook intake,semantic model,Critical,finance analytics,0,Yes,none
+LIN-RPT026-published-report,RPT026,planning workbook intake,published report,Critical,finance analytics,49,No,none
+LIN-RPT027-landing,RPT027,distributor reconciliation feed,landing,Standard,BI delivery,0,No,metric delay
+LIN-RPT027-validation,RPT027,distributor reconciliation feed,validation,Important,finance analytics,22,No,late invoice adjustment
+LIN-RPT027-warehouse-model,RPT027,distributor reconciliation feed,warehouse model,Standard,data strategy,52,Yes,metric delay
+LIN-RPT027-semantic-model,RPT027,distributor reconciliation feed,semantic model,Critical,governance and training,42,Yes,none
+LIN-RPT027-published-report,RPT027,distributor reconciliation feed,published report,Important,reporting services,34,No,late invoice adjustment
+LIN-RPT028-landing,RPT028,customer EDI gateway,landing,Standard,BI delivery,25,No,late invoice adjustment
+LIN-RPT028-validation,RPT028,customer EDI gateway,validation,Critical,governance and training,63,No,late invoice adjustment
+LIN-RPT028-warehouse-model,RPT028,customer EDI gateway,warehouse model,Standard,finance analytics,28,No,none
+LIN-RPT028-semantic-model,RPT028,customer EDI gateway,semantic model,Standard,governance and training,64,No,missing store mapping
+LIN-RPT028-published-report,RPT028,customer EDI gateway,published report,Standard,finance analytics,38,Yes,incorrect segmentation
+LIN-RPT029-landing,RPT029,bottler invoice hub,landing,Standard,finance analytics,60,Yes,late invoice adjustment
+LIN-RPT029-validation,RPT029,bottler invoice hub,validation,Important,customer data operations,65,Yes,missing store mapping
+LIN-RPT029-warehouse-model,RPT029,bottler invoice hub,warehouse model,Standard,BI delivery,15,Yes,metric delay
+LIN-RPT029-semantic-model,RPT029,bottler invoice hub,semantic model,Standard,finance analytics,60,No,late invoice adjustment
+LIN-RPT029-published-report,RPT029,bottler invoice hub,published report,Standard,finance analytics,11,Yes,incorrect segmentation
+LIN-RPT030-landing,RPT030,retailer POS feed,landing,Standard,BI delivery,20,No,missing store mapping
+LIN-RPT030-validation,RPT030,retailer POS feed,validation,Critical,governance and training,56,No,late invoice adjustment
+LIN-RPT030-warehouse-model,RPT030,retailer POS feed,warehouse model,Standard,data strategy,7,No,incorrect segmentation
+LIN-RPT030-semantic-model,RPT030,retailer POS feed,semantic model,Standard,data strategy,9,No,none
+LIN-RPT030-published-report,RPT030,retailer POS feed,published report,Standard,customer data operations,2,No,incorrect segmentation
+LIN-RPT031-landing,RPT031,customer hierarchy master,landing,Critical,data strategy,17,No,missing store mapping
+LIN-RPT031-validation,RPT031,customer hierarchy master,validation,Critical,finance analytics,11,No,none
+LIN-RPT031-warehouse-model,RPT031,customer hierarchy master,warehouse model,Important,finance analytics,21,No,late invoice adjustment
+LIN-RPT031-semantic-model,RPT031,customer hierarchy master,semantic model,Standard,BI delivery,33,No,late invoice adjustment
+LIN-RPT031-published-report,RPT031,customer hierarchy master,published report,Important,data strategy,58,No,late invoice adjustment
+LIN-RPT032-landing,RPT032,trade program system,landing,Standard,finance analytics,13,No,none
+LIN-RPT032-validation,RPT032,trade program system,validation,Important,data strategy,12,No,metric delay
+LIN-RPT032-warehouse-model,RPT032,trade program system,warehouse model,Standard,customer data operations,23,No,metric delay
+LIN-RPT032-semantic-model,RPT032,trade program system,semantic model,Standard,customer data operations,21,No,incorrect segmentation
+LIN-RPT032-published-report,RPT032,trade program system,published report,Critical,governance and training,2,No,incorrect segmentation

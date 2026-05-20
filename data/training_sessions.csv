@@ -1,0 +1,78 @@
+session_id,report_id,audience,attendance,satisfaction_score,follow_up_requests,adoption_lift_pct
+TRN-RPT001-1,RPT001,category management,32,4.2,0,1.8
+TRN-RPT001-2,RPT001,category management,40,4.6,4,0.6
+TRN-RPT001-3,RPT001,category management,69,3.5,1,5.7
+TRN-RPT001-4,RPT001,category management,18,4.7,9,7.2
+TRN-RPT002-1,RPT002,field sales operations,70,4.7,9,6.6
+TRN-RPT002-2,RPT002,field sales operations,17,4.4,9,7.7
+TRN-RPT002-3,RPT002,field sales operations,40,4.8,6,1.2
+TRN-RPT002-4,RPT002,field sales operations,58,3.8,6,3.0
+TRN-RPT003-1,RPT003,supply planning,31,3.9,6,3.8
+TRN-RPT003-2,RPT003,supply planning,11,4.1,1,9.1
+TRN-RPT003-3,RPT003,supply planning,32,3.1,0,1.2
+TRN-RPT004-1,RPT004,commercial leadership,50,3.4,9,8.9
+TRN-RPT005-1,RPT005,national customer team,56,4.4,4,2.4
+TRN-RPT005-2,RPT005,national customer team,12,4.1,0,7.7
+TRN-RPT005-3,RPT005,national customer team,26,4.1,3,1.4
+TRN-RPT005-4,RPT005,national customer team,70,3.4,2,8.2
+TRN-RPT006-1,RPT006,bottler finance leads,12,3.8,6,1.1
+TRN-RPT007-1,RPT007,category management,17,3.6,8,1.6
+TRN-RPT007-2,RPT007,category management,15,3.9,9,0.7
+TRN-RPT008-1,RPT008,field sales operations,21,4.3,7,1.0
+TRN-RPT009-1,RPT009,supply planning,50,4.1,5,4.6
+TRN-RPT009-2,RPT009,supply planning,54,3.9,0,8.5
+TRN-RPT009-3,RPT009,supply planning,36,3.8,7,8.3
+TRN-RPT009-4,RPT009,supply planning,48,4.2,4,7.4
+TRN-RPT010-1,RPT010,commercial leadership,69,4.1,8,6.9
+TRN-RPT010-2,RPT010,commercial leadership,59,3.7,3,7.4
+TRN-RPT011-1,RPT011,national customer team,41,4.7,0,2.9
+TRN-RPT011-2,RPT011,national customer team,77,3.4,7,8.1
+TRN-RPT012-1,RPT012,bottler finance leads,51,3.6,5,2.3
+TRN-RPT012-2,RPT012,bottler finance leads,63,4.5,1,9.0
+TRN-RPT012-3,RPT012,bottler finance leads,34,4.1,5,1.2
+TRN-RPT013-1,RPT013,category management,52,4.0,1,4.8
+TRN-RPT013-2,RPT013,category management,30,4.9,3,6.7
+TRN-RPT014-1,RPT014,field sales operations,76,4.7,8,6.9
+TRN-RPT015-1,RPT015,supply planning,46,3.6,3,1.0
+TRN-RPT016-1,RPT016,commercial leadership,25,3.9,6,5.1
+TRN-RPT017-1,RPT017,national customer team,61,4.7,3,8.7
+TRN-RPT017-2,RPT017,national customer team,24,3.3,2,8.9
+TRN-RPT017-3,RPT017,national customer team,69,3.5,7,1.5
+TRN-RPT017-4,RPT017,national customer team,9,3.9,0,8.9
+TRN-RPT018-1,RPT018,bottler finance leads,47,3.3,7,8.5
+TRN-RPT018-2,RPT018,bottler finance leads,52,4.7,4,4.3
+TRN-RPT018-3,RPT018,bottler finance leads,80,3.7,7,3.1
+TRN-RPT018-4,RPT018,bottler finance leads,31,3.7,5,4.6
+TRN-RPT019-1,RPT019,category management,69,4.6,3,6.6
+TRN-RPT019-2,RPT019,category management,81,3.8,6,6.1
+TRN-RPT019-3,RPT019,category management,57,3.2,2,9.3
+TRN-RPT019-4,RPT019,category management,39,4.3,0,1.4
+TRN-RPT020-1,RPT020,field sales operations,64,4.5,1,3.7
+TRN-RPT021-1,RPT021,supply planning,26,3.5,4,4.9
+TRN-RPT021-2,RPT021,supply planning,70,3.4,9,4.3
+TRN-RPT022-1,RPT022,commercial leadership,37,3.5,8,7.5
+TRN-RPT022-2,RPT022,commercial leadership,19,3.8,9,6.7
+TRN-RPT022-3,RPT022,commercial leadership,10,3.9,8,7.1
+TRN-RPT023-1,RPT023,national customer team,58,3.2,3,0.7
+TRN-RPT023-2,RPT023,national customer team,81,4.1,5,9.0
+TRN-RPT023-3,RPT023,national customer team,74,3.5,3,3.0
+TRN-RPT023-4,RPT023,national customer team,80,3.5,3,3.4
+TRN-RPT024-1,RPT024,bottler finance leads,44,4.0,4,8.6
+TRN-RPT024-2,RPT024,bottler finance leads,41,3.3,6,4.7
+TRN-RPT025-1,RPT025,category management,10,4.2,4,5.0
+TRN-RPT025-2,RPT025,category management,24,4.2,3,1.8
+TRN-RPT026-1,RPT026,field sales operations,85,4.4,2,5.8
+TRN-RPT027-1,RPT027,supply planning,79,3.7,4,5.2
+TRN-RPT028-1,RPT028,commercial leadership,21,4.7,2,3.5
+TRN-RPT028-2,RPT028,commercial leadership,20,3.3,8,8.7
+TRN-RPT029-1,RPT029,national customer team,64,4.9,4,2.9
+TRN-RPT030-1,RPT030,bottler finance leads,59,4.6,6,5.1
+TRN-RPT030-2,RPT030,bottler finance leads,50,4.8,1,4.2
+TRN-RPT030-3,RPT030,bottler finance leads,30,3.2,5,1.1
+TRN-RPT031-1,RPT031,category management,49,3.6,7,0.8
+TRN-RPT031-2,RPT031,category management,49,3.1,0,3.7
+TRN-RPT031-3,RPT031,category management,64,3.6,5,6.9
+TRN-RPT032-1,RPT032,field sales operations,74,3.6,3,5.4
+TRN-RPT032-2,RPT032,field sales operations,39,3.3,7,4.4
+TRN-RPT032-3,RPT032,field sales operations,71,4.1,3,2.3
+TRN-RPT032-4,RPT032,field sales operations,85,3.6,2,6.2

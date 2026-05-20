@@ -6,49 +6,119 @@
   <title>Bottling System Reporting Adoption Lab</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#7c3aed;--bg:#f7f2ff">
+<body>
   <main class="shell">
     <header class="hero">
-      <div>
-        <p class="eyebrow">Experiment Lab / bottling system BI reporting adoption</p>
+      <div class="hero-copy">
+        <p class="eyebrow">BI reporting operations</p>
         <h1>Bottling System Reporting Adoption Lab</h1>
+        <p>Prioritize trusted reporting products by adoption, quality, lineage, documentation, and stakeholder service risk.</p>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy reporting product-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
+      <aside class="hero-card">
+        <span>Operating question</span>
+        <strong>Which reporting assets need validation, documentation, or quality remediation before business teams scale usage?</strong>
       </aside>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>reporting products</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
+
+    <section class="kpi-grid" id="kpiGrid" aria-label="Portfolio summary"></section>
+
+    <section class="surface" id="portfolio">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Surface 1</p>
+          <h2>Reporting Portfolio Command Center</h2>
+        </div>
+        <label>
+          <span>Domain</span>
+          <select id="domainFilter" aria-label="Filter by reporting domain"></select>
+        </label>
+      </div>
+      <div class="surface-grid wide-left">
+        <article class="panel">
+          <table>
+            <thead>
+              <tr>
+                <th>Report</th>
+                <th>Audience</th>
+                <th>Score</th>
+                <th>Adoption</th>
+                <th>Quality</th>
+                <th>Lane</th>
+              </tr>
+            </thead>
+            <tbody id="priorityRows"></tbody>
+          </table>
+        </article>
+        <aside class="panel">
+          <h3>Domain risk and value</h3>
+          <div class="bar-stack" id="domainRisk"></div>
+        </aside>
+      </div>
     </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Hypothesis</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>reporting product</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>Power risk</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Experiment readout</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
-      </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
-      </article>
+
+    <section class="surface" id="quality">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Surface 2</p>
+          <h2>Data Quality and Lineage Workbench</h2>
+        </div>
+      </div>
+      <div class="mini-grid" id="qualityStats"></div>
+      <div class="surface-grid split">
+        <article class="panel">
+          <table>
+            <thead>
+              <tr>
+                <th>Report</th>
+                <th>Failed runs</th>
+                <th>SLA misses</th>
+                <th>Failed checks</th>
+                <th>Latency</th>
+                <th>Fix theme</th>
+              </tr>
+            </thead>
+            <tbody id="qualityRows"></tbody>
+          </table>
+        </article>
+        <aside class="panel">
+          <h3>Highest lineage risks</h3>
+          <div class="lineage-list" id="lineageCards"></div>
+        </aside>
+      </div>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value reporting product segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="surface" id="adoption">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Surface 3</p>
+          <h2>Adoption and Documentation Steward</h2>
+        </div>
+      </div>
+      <div class="surface-grid wide-right">
+        <article class="panel">
+          <table>
+            <thead>
+              <tr>
+                <th>Report</th>
+                <th>Adoption</th>
+                <th>Training</th>
+                <th>Doc gaps</th>
+                <th>Ambiguous asks</th>
+                <th>Service action</th>
+              </tr>
+            </thead>
+            <tbody id="adoptionRows"></tbody>
+          </table>
+        </article>
+        <aside class="panel">
+          <h3>Metric certification</h3>
+          <div class="cert-list" id="metricCertification"></div>
+          <h3>Open service requests</h3>
+          <div class="request-list" id="requestCards"></div>
+        </aside>
+      </div>
     </section>
   </main>
+  <script src="src/app.js"></script>
 </body>
 </html>

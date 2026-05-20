@@ -1,0 +1,33 @@
+report_id,report_name,audience,adoption_rate,training_sessions,avg_training_lift_pct,stale_or_missing_docs,open_requests,ambiguous_requests,service_action
+RPT027,Metric Definition Catalog,supply planning,0.506,1,5.2,2,7,6,Publish refreshed metric guide and report walkthrough
+RPT010,Customer Onboarding Readiness,commercial leadership,0.573,2,7.2,2,6,6,Publish refreshed metric guide and report walkthrough
+RPT022,Funding Claim Audit,commercial leadership,0.518,3,7.1,2,6,5,Publish refreshed metric guide and report walkthrough
+RPT016,Bottler Performance Summary,commercial leadership,0.524,1,5.1,2,7,5,Publish refreshed metric guide and report walkthrough
+RPT026,Source Refresh Reliability,field sales operations,0.641,1,5.8,2,5,5,Publish refreshed metric guide and report walkthrough
+RPT009,Pricing Exception Digest,supply planning,0.66,4,7.2,2,5,5,Publish refreshed metric guide and report walkthrough
+RPT018,Executive KPI Overview,bottler finance leads,0.452,4,5.1,2,5,4,Publish refreshed metric guide and report walkthrough
+RPT004,Trade Program Funding Tracker,commercial leadership,0.564,1,8.9,2,5,4,Publish refreshed metric guide and report walkthrough
+RPT023,Planning Assumption Tracker,national customer team,0.517,4,4.0,2,4,3,Publish refreshed metric guide and report walkthrough
+RPT019,Channel Penetration Trends,category management,0.555,4,5.8,2,3,3,Publish refreshed metric guide and report walkthrough
+RPT030,Change Contribution Review,bottler finance leads,0.598,3,3.5,2,4,3,Publish refreshed metric guide and report walkthrough
+RPT029,Churn and Penetration Monitor,national customer team,0.646,1,2.9,2,5,3,Publish refreshed metric guide and report walkthrough
+RPT020,Stakeholder Request Backlog,field sales operations,0.665,1,3.7,2,3,3,Publish refreshed metric guide and report walkthrough
+RPT013,Monthly Business Review Pack,category management,0.674,2,5.8,2,5,3,Publish refreshed metric guide and report walkthrough
+RPT007,Forecast Variance Review,category management,0.473,2,1.1,2,5,2,Publish refreshed metric guide and report walkthrough
+RPT001,National Customer Scorecard,category management,0.486,4,3.8,2,3,2,Publish refreshed metric guide and report walkthrough
+RPT011,Promotion Compliance View,national customer team,0.557,2,5.5,2,5,2,Publish refreshed metric guide and report walkthrough
+RPT024,Data Stewardship Queue,bottler finance leads,0.399,2,6.7,2,5,1,Publish refreshed metric guide and report walkthrough
+RPT006,Distributor Volume Bridge,bottler finance leads,0.412,1,1.1,2,1,1,Publish refreshed metric guide and report walkthrough
+RPT008,Outlet Segmentation Monitor,field sales operations,0.648,1,1.0,2,3,1,Publish refreshed metric guide and report walkthrough
+RPT003,Retailer POS Sell-Through,supply planning,0.505,3,4.7,1,6,5,Publish refreshed metric guide and report walkthrough
+RPT014,Invoice Adjustment Explorer,field sales operations,0.409,1,6.9,1,5,4,Publish refreshed metric guide and report walkthrough
+RPT025,Power BI Usage and Training,category management,0.45,2,3.4,1,5,3,Publish refreshed metric guide and report walkthrough
+RPT032,External Reporting Package,field sales operations,0.528,4,4.6,1,5,3,Publish refreshed metric guide and report walkthrough
+RPT005,Customer Hierarchy Health,national customer team,0.533,4,4.9,1,4,3,Publish refreshed metric guide and report walkthrough
+RPT021,Store Count Reconciliation,supply planning,0.556,2,4.6,1,5,3,Publish refreshed metric guide and report walkthrough
+RPT012,Route-to-Market Snapshot,bottler finance leads,0.598,3,4.2,1,3,3,Publish refreshed metric guide and report walkthrough
+RPT015,Retailer Data Quality Pulse,supply planning,0.407,1,1.0,1,2,2,Publish refreshed metric guide and report walkthrough
+RPT031,Sales Team Service Desk,category management,0.69,3,3.8,1,3,2,Publish refreshed metric guide and report walkthrough
+RPT028,Variance Contribution Workbench,commercial leadership,0.435,2,6.1,1,2,1,Publish refreshed metric guide and report walkthrough
+RPT002,Bottler Invoice Reconciliation,field sales operations,0.588,4,4.6,0,6,5,Translate open asks into acceptance criteria
+RPT017,Program Accrual Watchlist,national customer team,0.681,4,7.0,0,4,3,Translate open asks into acceptance criteria

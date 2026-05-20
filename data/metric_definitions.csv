@@ -1,0 +1,97 @@
+metric_id,report_id,metric_name,business_definition,grain,certification_state,sql_test_coverage,owner
+MET-RPT001-program_compliance,RPT001,program_compliance,validated activity divided by funded activity,customer by week,Certified,Missing,reporting services
+MET-RPT001-penetration_rate,RPT001,penetration_rate,covered outlets divided by eligible outlets,customer by week,Certified,Partial,customer data operations
+MET-RPT001-refresh_success_rate,RPT001,refresh_success_rate,successful refresh runs divided by attempted refresh runs,program by period,Certified,Missing,data strategy
+MET-RPT002-program_compliance,RPT002,program_compliance,validated activity divided by funded activity,program by period,Peer review,Partial,data strategy
+MET-RPT002-penetration_rate,RPT002,penetration_rate,covered outlets divided by eligible outlets,customer by week,Needs owner,Partial,BI delivery
+MET-RPT002-churn_rate,RPT002,churn_rate,outlets with no qualifying transaction after active baseline,customer by week,Draft,Missing,data strategy
+MET-RPT003-change_contribution,RPT003,change_contribution,"period change decomposed by volume, price, mix, and account movement",outlet by month,Needs owner,Full,BI delivery
+MET-RPT003-churn_rate,RPT003,churn_rate,outlets with no qualifying transaction after active baseline,program by period,Peer review,Partial,data strategy
+MET-RPT003-penetration_rate,RPT003,penetration_rate,covered outlets divided by eligible outlets,report by day,Certified,Full,reporting services
+MET-RPT004-refresh_success_rate,RPT004,refresh_success_rate,successful refresh runs divided by attempted refresh runs,customer by week,Draft,Full,BI delivery
+MET-RPT004-change_contribution,RPT004,change_contribution,"period change decomposed by volume, price, mix, and account movement",report by day,Certified,Missing,reporting services
+MET-RPT004-churn_rate,RPT004,churn_rate,outlets with no qualifying transaction after active baseline,customer by week,Peer review,Full,governance and training
+MET-RPT005-churn_rate,RPT005,churn_rate,outlets with no qualifying transaction after active baseline,program by period,Draft,Full,BI delivery
+MET-RPT005-penetration_rate,RPT005,penetration_rate,covered outlets divided by eligible outlets,outlet by month,Needs owner,Full,customer data operations
+MET-RPT005-change_contribution,RPT005,change_contribution,"period change decomposed by volume, price, mix, and account movement",report by day,Certified,Missing,data strategy
+MET-RPT006-change_contribution,RPT006,change_contribution,"period change decomposed by volume, price, mix, and account movement",report by day,Peer review,Full,finance analytics
+MET-RPT006-program_compliance,RPT006,program_compliance,validated activity divided by funded activity,customer by week,Peer review,Partial,data strategy
+MET-RPT006-churn_rate,RPT006,churn_rate,outlets with no qualifying transaction after active baseline,report by day,Draft,Partial,data strategy
+MET-RPT007-churn_rate,RPT007,churn_rate,outlets with no qualifying transaction after active baseline,report by day,Certified,Missing,BI delivery
+MET-RPT007-penetration_rate,RPT007,penetration_rate,covered outlets divided by eligible outlets,customer by week,Needs owner,Full,customer data operations
+MET-RPT007-change_contribution,RPT007,change_contribution,"period change decomposed by volume, price, mix, and account movement",outlet by month,Draft,Partial,reporting services
+MET-RPT008-penetration_rate,RPT008,penetration_rate,covered outlets divided by eligible outlets,report by day,Draft,Missing,data strategy
+MET-RPT008-refresh_success_rate,RPT008,refresh_success_rate,successful refresh runs divided by attempted refresh runs,customer by week,Needs owner,Partial,reporting services
+MET-RPT008-change_contribution,RPT008,change_contribution,"period change decomposed by volume, price, mix, and account movement",customer by week,Certified,Full,finance analytics
+MET-RPT009-change_contribution,RPT009,change_contribution,"period change decomposed by volume, price, mix, and account movement",report by day,Draft,Missing,reporting services
+MET-RPT009-refresh_success_rate,RPT009,refresh_success_rate,successful refresh runs divided by attempted refresh runs,outlet by month,Certified,Full,finance analytics
+MET-RPT009-churn_rate,RPT009,churn_rate,outlets with no qualifying transaction after active baseline,customer by week,Certified,Full,data strategy
+MET-RPT010-churn_rate,RPT010,churn_rate,outlets with no qualifying transaction after active baseline,program by period,Needs owner,Full,finance analytics
+MET-RPT010-penetration_rate,RPT010,penetration_rate,covered outlets divided by eligible outlets,customer by week,Draft,Missing,BI delivery
+MET-RPT010-program_compliance,RPT010,program_compliance,validated activity divided by funded activity,customer by week,Draft,Partial,BI delivery
+MET-RPT011-program_compliance,RPT011,program_compliance,validated activity divided by funded activity,outlet by month,Draft,Partial,customer data operations
+MET-RPT011-change_contribution,RPT011,change_contribution,"period change decomposed by volume, price, mix, and account movement",report by day,Certified,Partial,customer data operations
+MET-RPT011-penetration_rate,RPT011,penetration_rate,covered outlets divided by eligible outlets,customer by week,Draft,Missing,data strategy
+MET-RPT012-churn_rate,RPT012,churn_rate,outlets with no qualifying transaction after active baseline,program by period,Needs owner,Partial,finance analytics
+MET-RPT012-change_contribution,RPT012,change_contribution,"period change decomposed by volume, price, mix, and account movement",program by period,Peer review,Full,data strategy
+MET-RPT012-penetration_rate,RPT012,penetration_rate,covered outlets divided by eligible outlets,customer by week,Needs owner,Missing,customer data operations
+MET-RPT013-penetration_rate,RPT013,penetration_rate,covered outlets divided by eligible outlets,program by period,Needs owner,Full,reporting services
+MET-RPT013-refresh_success_rate,RPT013,refresh_success_rate,successful refresh runs divided by attempted refresh runs,program by period,Draft,Partial,BI delivery
+MET-RPT013-program_compliance,RPT013,program_compliance,validated activity divided by funded activity,report by day,Needs owner,Full,governance and training
+MET-RPT014-program_compliance,RPT014,program_compliance,validated activity divided by funded activity,program by period,Needs owner,Partial,data strategy
+MET-RPT014-penetration_rate,RPT014,penetration_rate,covered outlets divided by eligible outlets,customer by week,Needs owner,Partial,finance analytics
+MET-RPT014-change_contribution,RPT014,change_contribution,"period change decomposed by volume, price, mix, and account movement",report by day,Needs owner,Full,finance analytics
+MET-RPT015-penetration_rate,RPT015,penetration_rate,covered outlets divided by eligible outlets,customer by week,Draft,Missing,finance analytics
+MET-RPT015-refresh_success_rate,RPT015,refresh_success_rate,successful refresh runs divided by attempted refresh runs,report by day,Needs owner,Partial,data strategy
+MET-RPT015-program_compliance,RPT015,program_compliance,validated activity divided by funded activity,report by day,Draft,Partial,data strategy
+MET-RPT016-program_compliance,RPT016,program_compliance,validated activity divided by funded activity,report by day,Peer review,Partial,governance and training
+MET-RPT016-churn_rate,RPT016,churn_rate,outlets with no qualifying transaction after active baseline,customer by week,Certified,Missing,BI delivery
+MET-RPT016-change_contribution,RPT016,change_contribution,"period change decomposed by volume, price, mix, and account movement",outlet by month,Needs owner,Partial,BI delivery
+MET-RPT017-refresh_success_rate,RPT017,refresh_success_rate,successful refresh runs divided by attempted refresh runs,program by period,Needs owner,Partial,BI delivery
+MET-RPT017-penetration_rate,RPT017,penetration_rate,covered outlets divided by eligible outlets,outlet by month,Peer review,Partial,BI delivery
+MET-RPT017-churn_rate,RPT017,churn_rate,outlets with no qualifying transaction after active baseline,program by period,Needs owner,Full,customer data operations
+MET-RPT018-penetration_rate,RPT018,penetration_rate,covered outlets divided by eligible outlets,outlet by month,Peer review,Partial,data strategy
+MET-RPT018-program_compliance,RPT018,program_compliance,validated activity divided by funded activity,report by day,Needs owner,Full,governance and training
+MET-RPT018-refresh_success_rate,RPT018,refresh_success_rate,successful refresh runs divided by attempted refresh runs,customer by week,Peer review,Partial,governance and training
+MET-RPT019-penetration_rate,RPT019,penetration_rate,covered outlets divided by eligible outlets,outlet by month,Peer review,Missing,BI delivery
+MET-RPT019-program_compliance,RPT019,program_compliance,validated activity divided by funded activity,report by day,Needs owner,Full,customer data operations
+MET-RPT019-churn_rate,RPT019,churn_rate,outlets with no qualifying transaction after active baseline,report by day,Needs owner,Missing,BI delivery
+MET-RPT020-penetration_rate,RPT020,penetration_rate,covered outlets divided by eligible outlets,program by period,Certified,Partial,finance analytics
+MET-RPT020-program_compliance,RPT020,program_compliance,validated activity divided by funded activity,report by day,Peer review,Missing,BI delivery
+MET-RPT020-refresh_success_rate,RPT020,refresh_success_rate,successful refresh runs divided by attempted refresh runs,program by period,Peer review,Missing,data strategy
+MET-RPT021-churn_rate,RPT021,churn_rate,outlets with no qualifying transaction after active baseline,customer by week,Certified,Missing,data strategy
+MET-RPT021-program_compliance,RPT021,program_compliance,validated activity divided by funded activity,program by period,Needs owner,Partial,BI delivery
+MET-RPT021-change_contribution,RPT021,change_contribution,"period change decomposed by volume, price, mix, and account movement",outlet by month,Certified,Partial,reporting services
+MET-RPT022-program_compliance,RPT022,program_compliance,validated activity divided by funded activity,program by period,Draft,Partial,reporting services
+MET-RPT022-change_contribution,RPT022,change_contribution,"period change decomposed by volume, price, mix, and account movement",program by period,Needs owner,Partial,data strategy
+MET-RPT022-refresh_success_rate,RPT022,refresh_success_rate,successful refresh runs divided by attempted refresh runs,report by day,Certified,Missing,reporting services
+MET-RPT023-change_contribution,RPT023,change_contribution,"period change decomposed by volume, price, mix, and account movement",customer by week,Needs owner,Full,finance analytics
+MET-RPT023-penetration_rate,RPT023,penetration_rate,covered outlets divided by eligible outlets,outlet by month,Needs owner,Partial,BI delivery
+MET-RPT023-refresh_success_rate,RPT023,refresh_success_rate,successful refresh runs divided by attempted refresh runs,outlet by month,Draft,Full,BI delivery
+MET-RPT024-churn_rate,RPT024,churn_rate,outlets with no qualifying transaction after active baseline,report by day,Certified,Partial,data strategy
+MET-RPT024-change_contribution,RPT024,change_contribution,"period change decomposed by volume, price, mix, and account movement",outlet by month,Needs owner,Missing,reporting services
+MET-RPT024-program_compliance,RPT024,program_compliance,validated activity divided by funded activity,outlet by month,Certified,Full,data strategy
+MET-RPT025-refresh_success_rate,RPT025,refresh_success_rate,successful refresh runs divided by attempted refresh runs,customer by week,Certified,Missing,finance analytics
+MET-RPT025-program_compliance,RPT025,program_compliance,validated activity divided by funded activity,customer by week,Needs owner,Full,finance analytics
+MET-RPT025-churn_rate,RPT025,churn_rate,outlets with no qualifying transaction after active baseline,outlet by month,Certified,Partial,data strategy
+MET-RPT026-penetration_rate,RPT026,penetration_rate,covered outlets divided by eligible outlets,outlet by month,Certified,Missing,governance and training
+MET-RPT026-program_compliance,RPT026,program_compliance,validated activity divided by funded activity,outlet by month,Certified,Full,finance analytics
+MET-RPT026-churn_rate,RPT026,churn_rate,outlets with no qualifying transaction after active baseline,report by day,Certified,Full,governance and training
+MET-RPT027-program_compliance,RPT027,program_compliance,validated activity divided by funded activity,program by period,Peer review,Missing,governance and training
+MET-RPT027-refresh_success_rate,RPT027,refresh_success_rate,successful refresh runs divided by attempted refresh runs,customer by week,Certified,Missing,BI delivery
+MET-RPT027-churn_rate,RPT027,churn_rate,outlets with no qualifying transaction after active baseline,report by day,Certified,Partial,BI delivery
+MET-RPT028-refresh_success_rate,RPT028,refresh_success_rate,successful refresh runs divided by attempted refresh runs,report by day,Draft,Partial,reporting services
+MET-RPT028-program_compliance,RPT028,program_compliance,validated activity divided by funded activity,report by day,Needs owner,Full,customer data operations
+MET-RPT028-penetration_rate,RPT028,penetration_rate,covered outlets divided by eligible outlets,customer by week,Needs owner,Full,finance analytics
+MET-RPT029-program_compliance,RPT029,program_compliance,validated activity divided by funded activity,outlet by month,Needs owner,Full,BI delivery
+MET-RPT029-refresh_success_rate,RPT029,refresh_success_rate,successful refresh runs divided by attempted refresh runs,report by day,Needs owner,Partial,customer data operations
+MET-RPT029-churn_rate,RPT029,churn_rate,outlets with no qualifying transaction after active baseline,program by period,Needs owner,Missing,customer data operations
+MET-RPT030-refresh_success_rate,RPT030,refresh_success_rate,successful refresh runs divided by attempted refresh runs,program by period,Peer review,Missing,customer data operations
+MET-RPT030-churn_rate,RPT030,churn_rate,outlets with no qualifying transaction after active baseline,outlet by month,Peer review,Missing,customer data operations
+MET-RPT030-change_contribution,RPT030,change_contribution,"period change decomposed by volume, price, mix, and account movement",outlet by month,Peer review,Partial,data strategy
+MET-RPT031-program_compliance,RPT031,program_compliance,validated activity divided by funded activity,customer by week,Certified,Partial,customer data operations
+MET-RPT031-penetration_rate,RPT031,penetration_rate,covered outlets divided by eligible outlets,program by period,Needs owner,Missing,BI delivery
+MET-RPT031-refresh_success_rate,RPT031,refresh_success_rate,successful refresh runs divided by attempted refresh runs,report by day,Certified,Missing,data strategy
+MET-RPT032-change_contribution,RPT032,change_contribution,"period change decomposed by volume, price, mix, and account movement",program by period,Draft,Missing,governance and training
+MET-RPT032-churn_rate,RPT032,churn_rate,outlets with no qualifying transaction after active baseline,outlet by month,Peer review,Missing,finance analytics
+MET-RPT032-penetration_rate,RPT032,penetration_rate,covered outlets divided by eligible outlets,program by period,Draft,Missing,finance analytics

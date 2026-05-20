@@ -1,221 +1,221 @@
-action_id,entity_id,action_type,effort_hours,expected_lift_pct,status
-ACT0001,REP010,prioritize,37,19.5,In Review
-ACT0002,REP011,monitor,24,5.6,Ready
-ACT0003,REP028,prioritize,36,9.9,Ready
-ACT0004,REP029,automate,40,19.0,In Review
-ACT0005,REP002,document,39,11.2,Proposed
-ACT0006,REP003,automate,41,9.6,Complete
-ACT0007,REP008,automate,4,21.0,In Review
-ACT0008,REP009,document,26,7.2,In Review
-ACT0009,REP012,document,27,9.5,Ready
-ACT0010,REP017,validate,17,14.6,In Review
-ACT0011,REP002,validate,27,14.8,In Review
-ACT0012,REP029,document,8,19.7,Proposed
-ACT0013,REP029,document,9,22.5,Proposed
-ACT0014,REP019,automate,15,3.9,Complete
-ACT0015,REP029,prioritize,20,5.8,In Review
-ACT0016,REP032,document,30,9.3,Proposed
-ACT0017,REP031,document,42,11.5,Ready
-ACT0018,REP001,automate,27,2.1,In Review
-ACT0019,REP017,automate,43,8.6,Complete
-ACT0020,REP013,prioritize,8,10.5,Complete
-ACT0021,REP017,monitor,22,9.9,Ready
-ACT0022,REP019,automate,5,11.6,Ready
-ACT0023,REP028,monitor,22,20.2,In Review
-ACT0024,REP022,escalate,17,8.0,Proposed
-ACT0025,REP005,prioritize,43,19.5,Ready
-ACT0026,REP031,monitor,13,5.4,In Review
-ACT0027,REP007,escalate,7,7.8,Ready
-ACT0028,REP024,escalate,38,5.8,Ready
-ACT0029,REP011,automate,28,23.7,Complete
-ACT0030,REP014,validate,39,9.6,Complete
-ACT0031,REP025,validate,42,13.5,Complete
-ACT0032,REP017,escalate,12,4.1,Ready
-ACT0033,REP019,escalate,39,17.8,Complete
-ACT0034,REP021,document,37,5.6,Ready
-ACT0035,REP005,monitor,42,5.3,Ready
-ACT0036,REP010,prioritize,23,13.7,Proposed
-ACT0037,REP028,document,33,11.2,Proposed
-ACT0038,REP001,monitor,7,5.4,In Review
-ACT0039,REP003,monitor,11,11.6,Complete
-ACT0040,REP007,document,36,21.5,Proposed
-ACT0041,REP021,monitor,17,23.0,Proposed
-ACT0042,REP007,document,21,19.6,Complete
-ACT0043,REP035,validate,12,6.4,Proposed
-ACT0044,REP022,prioritize,37,5.5,Ready
-ACT0045,REP019,validate,38,13.5,In Review
-ACT0046,REP036,prioritize,34,16.6,Ready
-ACT0047,REP025,document,21,4.7,Complete
-ACT0048,REP006,automate,33,12.9,In Review
-ACT0049,REP016,escalate,41,6.3,Proposed
-ACT0050,REP008,escalate,37,23.3,Ready
-ACT0051,REP036,monitor,35,21.2,Proposed
-ACT0052,REP010,automate,23,11.7,Complete
-ACT0053,REP031,monitor,23,22.5,In Review
-ACT0054,REP026,automate,34,14.2,Ready
-ACT0055,REP017,escalate,22,12.6,In Review
-ACT0056,REP008,validate,38,4.5,Proposed
-ACT0057,REP022,monitor,44,5.0,Ready
-ACT0058,REP014,automate,34,13.7,Proposed
-ACT0059,REP026,escalate,5,15.6,Ready
-ACT0060,REP029,monitor,18,16.7,Proposed
-ACT0061,REP010,escalate,30,4.8,In Review
-ACT0062,REP022,escalate,44,4.5,Proposed
-ACT0063,REP011,escalate,30,19.5,Proposed
-ACT0064,REP034,document,16,15.6,Proposed
-ACT0065,REP001,prioritize,34,3.1,In Review
-ACT0066,REP026,prioritize,44,11.3,Ready
-ACT0067,REP013,monitor,10,16.3,Ready
-ACT0068,REP034,escalate,7,3.2,Proposed
-ACT0069,REP015,document,5,3.5,In Review
-ACT0070,REP017,prioritize,40,7.6,Proposed
-ACT0071,REP029,escalate,16,19.4,Complete
-ACT0072,REP020,prioritize,43,18.2,In Review
-ACT0073,REP016,validate,38,23.3,Proposed
-ACT0074,REP024,monitor,42,4.0,Ready
-ACT0075,REP004,escalate,4,20.8,Ready
-ACT0076,REP018,monitor,29,14.6,In Review
-ACT0077,REP018,validate,43,10.6,Proposed
-ACT0078,REP024,validate,23,21.1,Ready
-ACT0079,REP017,document,14,20.1,In Review
-ACT0080,REP010,monitor,25,3.2,In Review
-ACT0081,REP002,prioritize,2,11.0,Complete
-ACT0082,REP002,monitor,34,7.6,Complete
-ACT0083,REP005,validate,37,17.2,Ready
-ACT0084,REP033,escalate,31,14.9,Complete
-ACT0085,REP027,escalate,34,5.6,In Review
-ACT0086,REP025,document,5,12.6,Proposed
-ACT0087,REP005,monitor,35,3.1,Complete
-ACT0088,REP010,validate,5,19.7,In Review
-ACT0089,REP022,monitor,9,16.9,In Review
-ACT0090,REP016,automate,4,23.3,In Review
-ACT0091,REP024,prioritize,41,6.2,Complete
-ACT0092,REP006,automate,24,8.8,Complete
-ACT0093,REP015,document,24,6.7,Ready
-ACT0094,REP020,validate,19,7.3,In Review
-ACT0095,REP035,validate,39,18.3,Complete
-ACT0096,REP010,document,13,12.3,Proposed
-ACT0097,REP023,validate,37,17.2,Proposed
-ACT0098,REP008,monitor,4,23.7,Ready
-ACT0099,REP016,validate,7,2.7,Proposed
-ACT0100,REP013,prioritize,26,3.8,Complete
-ACT0101,REP035,escalate,17,2.4,Ready
-ACT0102,REP010,document,27,5.6,Complete
-ACT0103,REP008,document,39,15.2,Ready
-ACT0104,REP025,validate,8,6.8,Complete
-ACT0105,REP003,validate,40,11.3,Ready
-ACT0106,REP002,monitor,28,12.6,Complete
-ACT0107,REP016,escalate,40,15.9,Proposed
-ACT0108,REP031,validate,16,11.5,Ready
-ACT0109,REP022,automate,17,4.8,In Review
-ACT0110,REP018,document,17,18.9,In Review
-ACT0111,REP003,escalate,11,5.6,Ready
-ACT0112,REP007,document,20,5.2,Complete
-ACT0113,REP013,document,22,21.2,Ready
-ACT0114,REP006,monitor,21,2.1,Ready
-ACT0115,REP003,escalate,21,10.0,Complete
-ACT0116,REP003,escalate,5,23.7,Ready
-ACT0117,REP003,document,33,6.6,In Review
-ACT0118,REP007,document,43,23.2,Proposed
-ACT0119,REP036,validate,32,8.0,Proposed
-ACT0120,REP036,prioritize,12,8.6,Ready
-ACT0121,REP013,validate,19,15.1,Proposed
-ACT0122,REP025,monitor,7,20.4,In Review
-ACT0123,REP016,automate,26,18.6,In Review
-ACT0124,REP021,monitor,36,5.5,Ready
-ACT0125,REP033,document,19,15.1,Complete
-ACT0126,REP011,document,36,7.9,Ready
-ACT0127,REP005,escalate,3,14.8,Proposed
-ACT0128,REP021,automate,37,14.5,Complete
-ACT0129,REP011,document,35,20.2,In Review
-ACT0130,REP015,monitor,26,15.2,Proposed
-ACT0131,REP007,document,11,20.5,Complete
-ACT0132,REP001,automate,12,17.3,Proposed
-ACT0133,REP032,document,25,11.3,Complete
-ACT0134,REP019,validate,13,9.9,In Review
-ACT0135,REP011,automate,23,5.8,Proposed
-ACT0136,REP009,validate,11,9.4,Proposed
-ACT0137,REP015,automate,3,4.9,In Review
-ACT0138,REP002,document,10,6.4,Proposed
-ACT0139,REP012,monitor,7,12.9,In Review
-ACT0140,REP019,validate,34,23.1,Ready
-ACT0141,REP026,automate,2,9.4,In Review
-ACT0142,REP006,prioritize,19,21.7,In Review
-ACT0143,REP001,monitor,14,6.0,Complete
-ACT0144,REP026,validate,4,23.5,Proposed
-ACT0145,REP007,escalate,40,16.0,Complete
-ACT0146,REP003,automate,20,3.4,In Review
-ACT0147,REP028,validate,39,21.7,Proposed
-ACT0148,REP020,escalate,28,4.8,In Review
-ACT0149,REP009,prioritize,23,18.3,Ready
-ACT0150,REP003,monitor,11,17.3,Proposed
-ACT0151,REP009,escalate,33,13.6,Ready
-ACT0152,REP032,escalate,23,5.3,In Review
-ACT0153,REP032,document,23,20.2,Ready
-ACT0154,REP010,monitor,44,18.1,Proposed
-ACT0155,REP030,prioritize,14,23.5,Ready
-ACT0156,REP016,escalate,42,4.2,Ready
-ACT0157,REP030,document,24,15.9,Ready
-ACT0158,REP020,monitor,10,6.5,Complete
-ACT0159,REP031,automate,10,16.7,Proposed
-ACT0160,REP028,document,8,22.3,Complete
-ACT0161,REP012,prioritize,30,21.8,Complete
-ACT0162,REP020,automate,29,17.7,Complete
-ACT0163,REP010,automate,2,2.7,Complete
-ACT0164,REP021,prioritize,8,8.4,In Review
-ACT0165,REP001,prioritize,11,23.4,In Review
-ACT0166,REP014,validate,33,7.7,In Review
-ACT0167,REP001,validate,6,12.1,In Review
-ACT0168,REP002,escalate,2,16.8,Proposed
-ACT0169,REP001,prioritize,30,16.5,Complete
-ACT0170,REP025,monitor,22,17.0,Complete
-ACT0171,REP016,prioritize,23,8.7,In Review
-ACT0172,REP032,validate,41,6.5,In Review
-ACT0173,REP024,prioritize,41,16.1,In Review
-ACT0174,REP034,prioritize,44,6.8,In Review
-ACT0175,REP015,validate,12,3.1,Complete
-ACT0176,REP012,monitor,25,20.6,Complete
-ACT0177,REP025,escalate,13,2.8,Complete
-ACT0178,REP010,document,36,23.6,In Review
-ACT0179,REP003,escalate,16,16.9,Complete
-ACT0180,REP005,automate,40,20.2,Ready
-ACT0181,REP006,automate,28,22.9,Proposed
-ACT0182,REP013,prioritize,11,9.3,Proposed
-ACT0183,REP008,prioritize,27,20.3,Ready
-ACT0184,REP028,escalate,38,12.6,Proposed
-ACT0185,REP031,validate,43,3.8,Complete
-ACT0186,REP023,validate,31,11.6,Ready
-ACT0187,REP032,monitor,38,10.9,Complete
-ACT0188,REP023,monitor,35,20.3,Proposed
-ACT0189,REP008,prioritize,12,17.5,Ready
-ACT0190,REP024,prioritize,34,12.9,Complete
-ACT0191,REP029,monitor,13,12.7,Ready
-ACT0192,REP018,document,35,15.5,In Review
-ACT0193,REP003,automate,35,15.5,In Review
-ACT0194,REP026,monitor,37,12.4,Ready
-ACT0195,REP005,escalate,40,22.8,In Review
-ACT0196,REP020,validate,42,15.2,Complete
-ACT0197,REP027,validate,25,20.8,In Review
-ACT0198,REP006,document,30,7.6,Ready
-ACT0199,REP019,monitor,31,3.0,Ready
-ACT0200,REP013,escalate,12,10.6,Proposed
-ACT0201,REP007,automate,4,9.7,Proposed
-ACT0202,REP012,escalate,11,14.6,Complete
-ACT0203,REP028,validate,13,19.8,Proposed
-ACT0204,REP031,escalate,44,2.8,In Review
-ACT0205,REP008,automate,11,16.8,Proposed
-ACT0206,REP026,prioritize,34,5.8,Complete
-ACT0207,REP034,automate,23,3.6,Ready
-ACT0208,REP013,document,19,4.5,Ready
-ACT0209,REP004,prioritize,36,16.4,Complete
-ACT0210,REP002,document,10,2.3,Proposed
-ACT0211,REP021,prioritize,44,12.9,In Review
-ACT0212,REP026,prioritize,10,7.1,Proposed
-ACT0213,REP005,automate,16,13.7,Proposed
-ACT0214,REP005,escalate,12,12.7,Complete
-ACT0215,REP009,escalate,12,20.8,Ready
-ACT0216,REP024,validate,11,23.9,Proposed
-ACT0217,REP025,escalate,13,20.2,Proposed
-ACT0218,REP023,automate,13,22.7,Complete
-ACT0219,REP002,escalate,21,12.7,Ready
-ACT0220,REP020,prioritize,12,22.0,Complete
+action_id,report_id,action_type,expected_lift_pct,effort_hours,owner_group,status
+ACT001,RPT009,training and documentation,6.0,20,finance analytics,Ready
+ACT002,RPT025,metric certification,9.8,25,data strategy,Needs stakeholder input
+ACT003,RPT007,refresh performance tuning,6.8,24,reporting services,In progress
+ACT004,RPT007,training and documentation,2.7,8,BI delivery,Ready
+ACT005,RPT019,refresh performance tuning,12.3,38,governance and training,Ready
+ACT006,RPT011,stakeholder requirement clarification,7.8,17,reporting services,Needs stakeholder input
+ACT007,RPT019,stakeholder requirement clarification,13.8,2,governance and training,Ready
+ACT008,RPT009,refresh performance tuning,7.4,10,customer data operations,In progress
+ACT009,RPT007,training and documentation,6.3,34,reporting services,Queued
+ACT010,RPT001,stakeholder requirement clarification,2.7,30,reporting services,Needs stakeholder input
+ACT011,RPT032,stakeholder requirement clarification,12.9,18,BI delivery,Ready
+ACT012,RPT013,metric certification,11.4,36,finance analytics,Queued
+ACT013,RPT011,stakeholder requirement clarification,9.4,27,reporting services,Ready
+ACT014,RPT025,training and documentation,8.4,20,BI delivery,Queued
+ACT015,RPT016,refresh performance tuning,6.8,22,data strategy,In progress
+ACT016,RPT021,stakeholder requirement clarification,7.2,10,finance analytics,Ready
+ACT017,RPT011,source quality remediation,8.4,26,reporting services,In progress
+ACT018,RPT012,refresh performance tuning,2.0,2,finance analytics,Ready
+ACT019,RPT024,stakeholder requirement clarification,8.3,9,finance analytics,Ready
+ACT020,RPT001,source quality remediation,1.5,23,data strategy,In progress
+ACT021,RPT010,stakeholder requirement clarification,13.7,35,governance and training,In progress
+ACT022,RPT011,source quality remediation,2.1,14,BI delivery,In progress
+ACT023,RPT005,metric certification,13.8,36,BI delivery,In progress
+ACT024,RPT011,source quality remediation,4.1,31,customer data operations,In progress
+ACT025,RPT011,metric certification,6.1,6,reporting services,Ready
+ACT026,RPT004,refresh performance tuning,1.5,10,customer data operations,Queued
+ACT027,RPT011,stakeholder requirement clarification,5.4,11,governance and training,In progress
+ACT028,RPT014,training and documentation,8.2,17,reporting services,Queued
+ACT029,RPT025,source quality remediation,8.5,36,customer data operations,Needs stakeholder input
+ACT030,RPT021,training and documentation,9.1,5,finance analytics,Queued
+ACT031,RPT015,source quality remediation,6.0,35,finance analytics,Needs stakeholder input
+ACT032,RPT030,source quality remediation,12.7,16,reporting services,In progress
+ACT033,RPT014,stakeholder requirement clarification,11.7,8,customer data operations,Ready
+ACT034,RPT002,training and documentation,5.5,37,customer data operations,Needs stakeholder input
+ACT035,RPT014,metric certification,10.2,11,finance analytics,In progress
+ACT036,RPT006,training and documentation,10.5,5,governance and training,Needs stakeholder input
+ACT037,RPT005,refresh performance tuning,7.4,22,governance and training,Queued
+ACT038,RPT003,source quality remediation,7.3,34,finance analytics,Ready
+ACT039,RPT018,training and documentation,12.1,36,BI delivery,Ready
+ACT040,RPT008,refresh performance tuning,9.3,34,reporting services,Needs stakeholder input
+ACT041,RPT020,stakeholder requirement clarification,10.7,19,finance analytics,Needs stakeholder input
+ACT042,RPT003,metric certification,8.7,13,customer data operations,Queued
+ACT043,RPT026,training and documentation,10.7,3,customer data operations,Queued
+ACT044,RPT002,metric certification,8.5,3,reporting services,In progress
+ACT045,RPT002,metric certification,8.6,33,reporting services,Queued
+ACT046,RPT021,refresh performance tuning,5.5,11,governance and training,Queued
+ACT047,RPT022,training and documentation,13.9,25,governance and training,In progress
+ACT048,RPT002,stakeholder requirement clarification,4.9,2,BI delivery,Ready
+ACT049,RPT022,stakeholder requirement clarification,2.9,15,customer data operations,Queued
+ACT050,RPT018,source quality remediation,5.2,20,customer data operations,Ready
+ACT051,RPT001,source quality remediation,13.7,24,BI delivery,Ready
+ACT052,RPT026,refresh performance tuning,12.8,21,governance and training,Needs stakeholder input
+ACT053,RPT028,metric certification,9.3,25,customer data operations,In progress
+ACT054,RPT011,training and documentation,8.2,33,reporting services,In progress
+ACT055,RPT025,source quality remediation,13.4,5,governance and training,Queued
+ACT056,RPT022,refresh performance tuning,3.2,36,finance analytics,Ready
+ACT057,RPT007,metric certification,2.0,28,data strategy,Needs stakeholder input
+ACT058,RPT030,training and documentation,9.3,7,finance analytics,Ready
+ACT059,RPT017,source quality remediation,2.1,11,data strategy,Queued
+ACT060,RPT001,training and documentation,11.3,38,customer data operations,Needs stakeholder input
+ACT061,RPT030,source quality remediation,4.2,29,finance analytics,Queued
+ACT062,RPT031,refresh performance tuning,5.8,30,reporting services,Needs stakeholder input
+ACT063,RPT023,source quality remediation,5.6,28,finance analytics,Needs stakeholder input
+ACT064,RPT025,stakeholder requirement clarification,6.0,29,customer data operations,Needs stakeholder input
+ACT065,RPT031,stakeholder requirement clarification,3.6,27,reporting services,In progress
+ACT066,RPT008,source quality remediation,2.1,5,data strategy,Needs stakeholder input
+ACT067,RPT023,training and documentation,6.6,18,reporting services,Queued
+ACT068,RPT016,training and documentation,7.1,34,reporting services,Queued
+ACT069,RPT017,stakeholder requirement clarification,5.1,31,BI delivery,Needs stakeholder input
+ACT070,RPT008,training and documentation,6.1,23,governance and training,In progress
+ACT071,RPT014,source quality remediation,7.5,29,finance analytics,Needs stakeholder input
+ACT072,RPT007,metric certification,8.0,27,governance and training,Ready
+ACT073,RPT013,stakeholder requirement clarification,9.6,25,governance and training,Needs stakeholder input
+ACT074,RPT021,stakeholder requirement clarification,5.0,13,finance analytics,Ready
+ACT075,RPT013,source quality remediation,12.6,11,reporting services,Ready
+ACT076,RPT030,refresh performance tuning,10.5,7,finance analytics,Ready
+ACT077,RPT007,refresh performance tuning,7.0,31,reporting services,Queued
+ACT078,RPT025,metric certification,11.9,36,finance analytics,Ready
+ACT079,RPT022,stakeholder requirement clarification,3.4,8,reporting services,Queued
+ACT080,RPT027,stakeholder requirement clarification,11.1,32,reporting services,Queued
+ACT081,RPT020,refresh performance tuning,6.4,35,finance analytics,Queued
+ACT082,RPT027,metric certification,6.4,7,governance and training,In progress
+ACT083,RPT030,refresh performance tuning,5.3,22,finance analytics,Ready
+ACT084,RPT019,source quality remediation,2.5,28,governance and training,Needs stakeholder input
+ACT085,RPT011,metric certification,12.8,30,finance analytics,Ready
+ACT086,RPT002,training and documentation,3.9,6,data strategy,In progress
+ACT087,RPT002,training and documentation,5.5,33,reporting services,Ready
+ACT088,RPT009,stakeholder requirement clarification,10.9,21,reporting services,Needs stakeholder input
+ACT089,RPT029,refresh performance tuning,8.7,25,finance analytics,Ready
+ACT090,RPT011,refresh performance tuning,7.9,16,BI delivery,In progress
+ACT091,RPT016,refresh performance tuning,12.3,8,finance analytics,Queued
+ACT092,RPT023,stakeholder requirement clarification,13.0,8,data strategy,Queued
+ACT093,RPT017,training and documentation,8.8,13,data strategy,Queued
+ACT094,RPT024,stakeholder requirement clarification,2.2,13,reporting services,Needs stakeholder input
+ACT095,RPT021,refresh performance tuning,2.5,8,customer data operations,Queued
+ACT096,RPT030,training and documentation,11.1,23,BI delivery,Needs stakeholder input
+ACT097,RPT009,stakeholder requirement clarification,11.8,14,data strategy,In progress
+ACT098,RPT004,source quality remediation,4.1,31,reporting services,Ready
+ACT099,RPT009,stakeholder requirement clarification,10.8,4,customer data operations,Ready
+ACT100,RPT032,refresh performance tuning,4.4,20,reporting services,Queued
+ACT101,RPT014,training and documentation,10.0,2,data strategy,In progress
+ACT102,RPT014,source quality remediation,10.6,27,reporting services,Ready
+ACT103,RPT026,source quality remediation,8.9,37,governance and training,In progress
+ACT104,RPT003,source quality remediation,5.6,8,reporting services,Ready
+ACT105,RPT018,source quality remediation,13.3,8,customer data operations,Queued
+ACT106,RPT013,refresh performance tuning,13.0,25,BI delivery,Needs stakeholder input
+ACT107,RPT020,stakeholder requirement clarification,6.0,26,BI delivery,Queued
+ACT108,RPT016,training and documentation,5.1,32,data strategy,Queued
+ACT109,RPT017,metric certification,12.6,25,data strategy,Ready
+ACT110,RPT026,metric certification,13.5,16,finance analytics,Ready
+ACT111,RPT001,training and documentation,6.1,35,finance analytics,Queued
+ACT112,RPT031,training and documentation,12.1,12,data strategy,Needs stakeholder input
+ACT113,RPT004,stakeholder requirement clarification,7.6,25,customer data operations,Queued
+ACT114,RPT015,training and documentation,6.1,24,customer data operations,Queued
+ACT115,RPT024,stakeholder requirement clarification,8.4,35,data strategy,Needs stakeholder input
+ACT116,RPT014,stakeholder requirement clarification,8.5,30,reporting services,In progress
+ACT117,RPT003,metric certification,12.4,25,customer data operations,Queued
+ACT118,RPT013,stakeholder requirement clarification,1.5,10,customer data operations,In progress
+ACT119,RPT001,stakeholder requirement clarification,9.9,2,reporting services,Needs stakeholder input
+ACT120,RPT030,training and documentation,1.8,31,reporting services,Ready
+ACT121,RPT022,refresh performance tuning,10.0,27,reporting services,Needs stakeholder input
+ACT122,RPT003,refresh performance tuning,5.5,27,finance analytics,In progress
+ACT123,RPT009,source quality remediation,4.0,20,data strategy,Ready
+ACT124,RPT017,source quality remediation,1.7,27,data strategy,Ready
+ACT125,RPT007,metric certification,11.8,38,customer data operations,Ready
+ACT126,RPT016,refresh performance tuning,11.0,23,finance analytics,Ready
+ACT127,RPT006,training and documentation,13.8,11,BI delivery,Queued
+ACT128,RPT026,metric certification,3.2,11,data strategy,Queued
+ACT129,RPT027,metric certification,4.9,10,governance and training,Needs stakeholder input
+ACT130,RPT022,training and documentation,3.2,18,governance and training,Queued
+ACT131,RPT011,training and documentation,4.5,11,data strategy,Queued
+ACT132,RPT004,metric certification,1.8,14,data strategy,In progress
+ACT133,RPT011,stakeholder requirement clarification,9.7,12,reporting services,Queued
+ACT134,RPT022,metric certification,9.5,33,finance analytics,Ready
+ACT135,RPT015,training and documentation,4.4,12,finance analytics,Needs stakeholder input
+ACT136,RPT025,metric certification,9.5,33,customer data operations,Queued
+ACT137,RPT018,stakeholder requirement clarification,4.9,33,customer data operations,Needs stakeholder input
+ACT138,RPT004,stakeholder requirement clarification,10.9,31,customer data operations,Needs stakeholder input
+ACT139,RPT014,refresh performance tuning,2.4,19,BI delivery,Queued
+ACT140,RPT001,refresh performance tuning,2.0,5,customer data operations,Queued
+ACT141,RPT016,refresh performance tuning,2.2,33,data strategy,Ready
+ACT142,RPT022,refresh performance tuning,7.4,12,customer data operations,Ready
+ACT143,RPT032,source quality remediation,6.9,11,reporting services,Needs stakeholder input
+ACT144,RPT031,refresh performance tuning,12.3,14,finance analytics,Queued
+ACT145,RPT020,source quality remediation,13.3,11,BI delivery,Needs stakeholder input
+ACT146,RPT028,source quality remediation,8.9,12,data strategy,Queued
+ACT147,RPT015,source quality remediation,8.0,7,data strategy,Needs stakeholder input
+ACT148,RPT012,source quality remediation,4.2,3,customer data operations,Queued
+ACT149,RPT032,metric certification,11.1,20,BI delivery,Ready
+ACT150,RPT018,training and documentation,2.4,21,reporting services,Queued
+ACT151,RPT012,stakeholder requirement clarification,13.8,18,reporting services,In progress
+ACT152,RPT029,metric certification,8.0,38,data strategy,Queued
+ACT153,RPT023,metric certification,5.0,12,governance and training,Queued
+ACT154,RPT013,refresh performance tuning,5.0,24,data strategy,Needs stakeholder input
+ACT155,RPT015,source quality remediation,10.4,30,finance analytics,Needs stakeholder input
+ACT156,RPT006,stakeholder requirement clarification,1.8,17,BI delivery,Needs stakeholder input
+ACT157,RPT022,stakeholder requirement clarification,7.5,38,reporting services,Ready
+ACT158,RPT012,training and documentation,11.6,32,data strategy,Queued
+ACT159,RPT012,source quality remediation,1.7,32,BI delivery,In progress
+ACT160,RPT005,stakeholder requirement clarification,6.9,21,finance analytics,Needs stakeholder input
+ACT161,RPT026,refresh performance tuning,5.1,24,data strategy,Ready
+ACT162,RPT018,stakeholder requirement clarification,4.6,25,governance and training,In progress
+ACT163,RPT024,metric certification,8.4,26,finance analytics,Queued
+ACT164,RPT009,refresh performance tuning,12.1,2,governance and training,Queued
+ACT165,RPT022,source quality remediation,10.0,25,governance and training,Needs stakeholder input
+ACT166,RPT007,metric certification,10.8,5,reporting services,Needs stakeholder input
+ACT167,RPT027,source quality remediation,9.7,6,data strategy,In progress
+ACT168,RPT027,refresh performance tuning,6.8,34,BI delivery,Needs stakeholder input
+ACT169,RPT004,training and documentation,8.6,21,customer data operations,Ready
+ACT170,RPT016,source quality remediation,6.8,19,data strategy,Needs stakeholder input
+ACT171,RPT021,source quality remediation,13.7,11,BI delivery,In progress
+ACT172,RPT021,training and documentation,12.1,16,data strategy,In progress
+ACT173,RPT005,training and documentation,13.9,21,BI delivery,Queued
+ACT174,RPT031,metric certification,5.8,19,data strategy,Ready
+ACT175,RPT003,stakeholder requirement clarification,2.3,28,finance analytics,Queued
+ACT176,RPT002,stakeholder requirement clarification,12.9,25,data strategy,Ready
+ACT177,RPT012,source quality remediation,13.9,12,governance and training,In progress
+ACT178,RPT018,stakeholder requirement clarification,7.1,30,finance analytics,In progress
+ACT179,RPT004,refresh performance tuning,7.0,26,reporting services,Needs stakeholder input
+ACT180,RPT011,stakeholder requirement clarification,6.7,16,BI delivery,In progress
+ACT181,RPT002,refresh performance tuning,8.1,4,governance and training,Ready
+ACT182,RPT003,metric certification,3.2,20,finance analytics,Ready
+ACT183,RPT024,refresh performance tuning,9.1,21,data strategy,Ready
+ACT184,RPT008,stakeholder requirement clarification,7.5,3,BI delivery,Needs stakeholder input
+ACT185,RPT017,stakeholder requirement clarification,2.4,5,governance and training,Ready
+ACT186,RPT029,source quality remediation,10.2,6,governance and training,Needs stakeholder input
+ACT187,RPT012,metric certification,5.0,15,BI delivery,In progress
+ACT188,RPT019,metric certification,12.6,7,data strategy,Ready
+ACT189,RPT004,refresh performance tuning,2.0,19,governance and training,Queued
+ACT190,RPT005,metric certification,11.5,25,BI delivery,Queued
+ACT191,RPT006,training and documentation,10.6,34,customer data operations,Needs stakeholder input
+ACT192,RPT003,refresh performance tuning,6.7,29,customer data operations,Needs stakeholder input
+ACT193,RPT008,training and documentation,3.0,35,data strategy,Needs stakeholder input
+ACT194,RPT005,training and documentation,6.5,38,reporting services,Ready
+ACT195,RPT018,source quality remediation,13.1,32,BI delivery,Queued
+ACT196,RPT005,training and documentation,11.2,36,customer data operations,Ready
+ACT197,RPT007,training and documentation,3.0,7,governance and training,In progress
+ACT198,RPT012,refresh performance tuning,12.1,18,data strategy,Needs stakeholder input
+ACT199,RPT013,training and documentation,2.9,27,BI delivery,In progress
+ACT200,RPT021,metric certification,9.4,33,data strategy,Needs stakeholder input
+ACT201,RPT023,source quality remediation,3.0,4,customer data operations,Queued
+ACT202,RPT032,metric certification,3.8,2,customer data operations,Queued
+ACT203,RPT021,metric certification,8.3,21,reporting services,Queued
+ACT204,RPT020,metric certification,8.4,29,governance and training,Ready
+ACT205,RPT028,stakeholder requirement clarification,3.1,16,data strategy,In progress
+ACT206,RPT003,metric certification,9.9,38,data strategy,Ready
+ACT207,RPT007,training and documentation,11.2,3,finance analytics,Ready
+ACT208,RPT011,stakeholder requirement clarification,7.1,9,finance analytics,Queued
+ACT209,RPT012,stakeholder requirement clarification,8.0,21,governance and training,Ready
+ACT210,RPT022,stakeholder requirement clarification,12.3,18,finance analytics,Queued
+ACT211,RPT023,training and documentation,9.4,21,governance and training,Needs stakeholder input
+ACT212,RPT003,source quality remediation,6.6,18,governance and training,Queued
+ACT213,RPT031,source quality remediation,8.2,29,governance and training,In progress
+ACT214,RPT028,training and documentation,8.4,7,BI delivery,Needs stakeholder input
+ACT215,RPT005,source quality remediation,8.6,10,governance and training,In progress
+ACT216,RPT010,training and documentation,3.9,29,customer data operations,In progress
+ACT217,RPT032,stakeholder requirement clarification,8.0,26,customer data operations,In progress
+ACT218,RPT005,metric certification,7.7,34,governance and training,Queued
+ACT219,RPT017,metric certification,7.8,16,governance and training,Needs stakeholder input
+ACT220,RPT006,source quality remediation,3.9,8,reporting services,In progress

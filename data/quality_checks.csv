@@ -1,0 +1,193 @@
+check_id,report_id,check_type,severity,threshold,observed_value,result,recommended_fix
+CHK-RPT001-1,RPT001,freshness,Critical,24 hours,5.04,Pass,document metric grain and filter logic
+CHK-RPT001-2,RPT001,completeness,Medium,2.0 percent,5.81,Pass,reconcile against invoice control total
+CHK-RPT001-3,RPT001,uniqueness,Critical,2.0 percent,3.22,Pass,confirm source owner and rerun validation
+CHK-RPT001-4,RPT001,referential integrity,Critical,2.0 percent,4.89,Pass,publish data quality note to consumers
+CHK-RPT001-5,RPT001,metric reconciliation,Medium,2.0 percent,3.48,Pass,refresh customer hierarchy mapping
+CHK-RPT001-6,RPT001,schema drift,Critical,2.0 percent,7.14,Pass,refresh customer hierarchy mapping
+CHK-RPT002-1,RPT002,freshness,Low,24 hours,69.1,Fail,reconcile against invoice control total
+CHK-RPT002-2,RPT002,completeness,Medium,2.0 percent,3.97,Fail,refresh customer hierarchy mapping
+CHK-RPT002-3,RPT002,uniqueness,Medium,2.0 percent,1.51,Fail,confirm source owner and rerun validation
+CHK-RPT002-4,RPT002,referential integrity,Critical,2.0 percent,0.22,Warning,refresh customer hierarchy mapping
+CHK-RPT002-5,RPT002,metric reconciliation,Medium,2.0 percent,2.21,Pass,publish data quality note to consumers
+CHK-RPT002-6,RPT002,schema drift,Critical,2.0 percent,2.71,Pass,reconcile against invoice control total
+CHK-RPT003-1,RPT003,freshness,Medium,24 hours,21.61,Pass,publish data quality note to consumers
+CHK-RPT003-2,RPT003,completeness,Critical,2.0 percent,6.3,Pass,refresh customer hierarchy mapping
+CHK-RPT003-3,RPT003,uniqueness,Medium,2.0 percent,3.79,Warning,reconcile against invoice control total
+CHK-RPT003-4,RPT003,referential integrity,Critical,2.0 percent,0.08,Pass,reconcile against invoice control total
+CHK-RPT003-5,RPT003,metric reconciliation,Low,2.0 percent,6.56,Pass,refresh customer hierarchy mapping
+CHK-RPT003-6,RPT003,schema drift,Low,2.0 percent,2.34,Fail,document metric grain and filter logic
+CHK-RPT004-1,RPT004,freshness,Medium,24 hours,104.33,Pass,document metric grain and filter logic
+CHK-RPT004-2,RPT004,completeness,Low,2.0 percent,3.17,Warning,publish data quality note to consumers
+CHK-RPT004-3,RPT004,uniqueness,Critical,2.0 percent,4.48,Pass,document metric grain and filter logic
+CHK-RPT004-4,RPT004,referential integrity,Low,2.0 percent,4.99,Warning,reconcile against invoice control total
+CHK-RPT004-5,RPT004,metric reconciliation,Critical,2.0 percent,0.06,Pass,refresh customer hierarchy mapping
+CHK-RPT004-6,RPT004,schema drift,Low,2.0 percent,3.98,Pass,publish data quality note to consumers
+CHK-RPT005-1,RPT005,freshness,Low,24 hours,118.15,Fail,document metric grain and filter logic
+CHK-RPT005-2,RPT005,completeness,High,2.0 percent,1.93,Pass,reconcile against invoice control total
+CHK-RPT005-3,RPT005,uniqueness,Low,2.0 percent,7.08,Warning,document metric grain and filter logic
+CHK-RPT005-4,RPT005,referential integrity,Medium,2.0 percent,1.44,Pass,document metric grain and filter logic
+CHK-RPT005-5,RPT005,metric reconciliation,Critical,2.0 percent,6.88,Pass,publish data quality note to consumers
+CHK-RPT005-6,RPT005,schema drift,Medium,2.0 percent,2.9,Pass,add exception handling to transformation
+CHK-RPT006-1,RPT006,freshness,Low,24 hours,127.95,Pass,confirm source owner and rerun validation
+CHK-RPT006-2,RPT006,completeness,Critical,2.0 percent,5.27,Warning,reconcile against invoice control total
+CHK-RPT006-3,RPT006,uniqueness,High,2.0 percent,0.42,Fail,refresh customer hierarchy mapping
+CHK-RPT006-4,RPT006,referential integrity,Critical,2.0 percent,4.77,Pass,publish data quality note to consumers
+CHK-RPT006-5,RPT006,metric reconciliation,Low,2.0 percent,3.98,Warning,confirm source owner and rerun validation
+CHK-RPT006-6,RPT006,schema drift,Medium,2.0 percent,3.34,Pass,publish data quality note to consumers
+CHK-RPT007-1,RPT007,freshness,High,24 hours,134.74,Fail,reconcile against invoice control total
+CHK-RPT007-2,RPT007,completeness,Low,2.0 percent,0.95,Warning,refresh customer hierarchy mapping
+CHK-RPT007-3,RPT007,uniqueness,Critical,2.0 percent,0.17,Fail,confirm source owner and rerun validation
+CHK-RPT007-4,RPT007,referential integrity,High,2.0 percent,5.9,Pass,refresh customer hierarchy mapping
+CHK-RPT007-5,RPT007,metric reconciliation,Low,2.0 percent,1.76,Warning,add exception handling to transformation
+CHK-RPT007-6,RPT007,schema drift,Low,2.0 percent,2.13,Pass,confirm source owner and rerun validation
+CHK-RPT008-1,RPT008,freshness,Critical,24 hours,127.71,Pass,add exception handling to transformation
+CHK-RPT008-2,RPT008,completeness,High,2.0 percent,3.6,Warning,publish data quality note to consumers
+CHK-RPT008-3,RPT008,uniqueness,High,2.0 percent,1.85,Fail,reconcile against invoice control total
+CHK-RPT008-4,RPT008,referential integrity,Medium,2.0 percent,3.37,Warning,confirm source owner and rerun validation
+CHK-RPT008-5,RPT008,metric reconciliation,High,2.0 percent,4.87,Warning,reconcile against invoice control total
+CHK-RPT008-6,RPT008,schema drift,Critical,2.0 percent,1.01,Pass,confirm source owner and rerun validation
+CHK-RPT009-1,RPT009,freshness,Critical,24 hours,99.92,Warning,reconcile against invoice control total
+CHK-RPT009-2,RPT009,completeness,High,2.0 percent,6.73,Warning,document metric grain and filter logic
+CHK-RPT009-3,RPT009,uniqueness,Critical,2.0 percent,3.37,Pass,reconcile against invoice control total
+CHK-RPT009-4,RPT009,referential integrity,Medium,2.0 percent,0.88,Warning,reconcile against invoice control total
+CHK-RPT009-5,RPT009,metric reconciliation,High,2.0 percent,6.32,Pass,add exception handling to transformation
+CHK-RPT009-6,RPT009,schema drift,High,2.0 percent,6.77,Warning,document metric grain and filter logic
+CHK-RPT010-1,RPT010,freshness,Medium,24 hours,51.46,Pass,reconcile against invoice control total
+CHK-RPT010-2,RPT010,completeness,Critical,2.0 percent,3.41,Warning,refresh customer hierarchy mapping
+CHK-RPT010-3,RPT010,uniqueness,Low,2.0 percent,7.45,Pass,publish data quality note to consumers
+CHK-RPT010-4,RPT010,referential integrity,Critical,2.0 percent,3.54,Pass,reconcile against invoice control total
+CHK-RPT010-5,RPT010,metric reconciliation,Low,2.0 percent,0.74,Fail,document metric grain and filter logic
+CHK-RPT010-6,RPT010,schema drift,Low,2.0 percent,1.71,Pass,publish data quality note to consumers
+CHK-RPT011-1,RPT011,freshness,Medium,24 hours,106.73,Warning,refresh customer hierarchy mapping
+CHK-RPT011-2,RPT011,completeness,Medium,2.0 percent,7.42,Warning,add exception handling to transformation
+CHK-RPT011-3,RPT011,uniqueness,Critical,2.0 percent,1.03,Pass,document metric grain and filter logic
+CHK-RPT011-4,RPT011,referential integrity,Critical,2.0 percent,4.87,Warning,add exception handling to transformation
+CHK-RPT011-5,RPT011,metric reconciliation,Critical,2.0 percent,6.7,Fail,confirm source owner and rerun validation
+CHK-RPT011-6,RPT011,schema drift,Medium,2.0 percent,2.7,Pass,document metric grain and filter logic
+CHK-RPT012-1,RPT012,freshness,Low,24 hours,107.2,Pass,reconcile against invoice control total
+CHK-RPT012-2,RPT012,completeness,Low,2.0 percent,5.3,Fail,refresh customer hierarchy mapping
+CHK-RPT012-3,RPT012,uniqueness,Medium,2.0 percent,3.08,Pass,publish data quality note to consumers
+CHK-RPT012-4,RPT012,referential integrity,High,2.0 percent,0.03,Pass,confirm source owner and rerun validation
+CHK-RPT012-5,RPT012,metric reconciliation,Low,2.0 percent,1.11,Pass,document metric grain and filter logic
+CHK-RPT012-6,RPT012,schema drift,Critical,2.0 percent,4.78,Pass,reconcile against invoice control total
+CHK-RPT013-1,RPT013,freshness,Low,24 hours,55.53,Warning,refresh customer hierarchy mapping
+CHK-RPT013-2,RPT013,completeness,Low,2.0 percent,0.05,Warning,reconcile against invoice control total
+CHK-RPT013-3,RPT013,uniqueness,Critical,2.0 percent,2.67,Warning,document metric grain and filter logic
+CHK-RPT013-4,RPT013,referential integrity,High,2.0 percent,2.55,Pass,publish data quality note to consumers
+CHK-RPT013-5,RPT013,metric reconciliation,Medium,2.0 percent,0.29,Pass,refresh customer hierarchy mapping
+CHK-RPT013-6,RPT013,schema drift,High,2.0 percent,6.41,Pass,publish data quality note to consumers
+CHK-RPT014-1,RPT014,freshness,Critical,24 hours,138.71,Fail,publish data quality note to consumers
+CHK-RPT014-2,RPT014,completeness,Medium,2.0 percent,6.03,Pass,publish data quality note to consumers
+CHK-RPT014-3,RPT014,uniqueness,High,2.0 percent,1.36,Warning,document metric grain and filter logic
+CHK-RPT014-4,RPT014,referential integrity,Critical,2.0 percent,5.15,Warning,confirm source owner and rerun validation
+CHK-RPT014-5,RPT014,metric reconciliation,Critical,2.0 percent,5.8,Pass,confirm source owner and rerun validation
+CHK-RPT014-6,RPT014,schema drift,Critical,2.0 percent,7.44,Pass,reconcile against invoice control total
+CHK-RPT015-1,RPT015,freshness,Low,24 hours,10.62,Pass,publish data quality note to consumers
+CHK-RPT015-2,RPT015,completeness,Critical,2.0 percent,5.63,Pass,confirm source owner and rerun validation
+CHK-RPT015-3,RPT015,uniqueness,Critical,2.0 percent,0.7,Warning,document metric grain and filter logic
+CHK-RPT015-4,RPT015,referential integrity,Low,2.0 percent,4.79,Pass,confirm source owner and rerun validation
+CHK-RPT015-5,RPT015,metric reconciliation,Critical,2.0 percent,2.02,Pass,reconcile against invoice control total
+CHK-RPT015-6,RPT015,schema drift,Critical,2.0 percent,6.81,Pass,document metric grain and filter logic
+CHK-RPT016-1,RPT016,freshness,High,24 hours,145.4,Pass,add exception handling to transformation
+CHK-RPT016-2,RPT016,completeness,Critical,2.0 percent,5.05,Fail,confirm source owner and rerun validation
+CHK-RPT016-3,RPT016,uniqueness,High,2.0 percent,7.3,Pass,reconcile against invoice control total
+CHK-RPT016-4,RPT016,referential integrity,High,2.0 percent,0.6,Fail,confirm source owner and rerun validation
+CHK-RPT016-5,RPT016,metric reconciliation,Medium,2.0 percent,3.81,Warning,document metric grain and filter logic
+CHK-RPT016-6,RPT016,schema drift,Medium,2.0 percent,5.38,Fail,refresh customer hierarchy mapping
+CHK-RPT017-1,RPT017,freshness,Critical,24 hours,66.55,Warning,refresh customer hierarchy mapping
+CHK-RPT017-2,RPT017,completeness,Critical,2.0 percent,6.92,Pass,publish data quality note to consumers
+CHK-RPT017-3,RPT017,uniqueness,Medium,2.0 percent,0.45,Warning,publish data quality note to consumers
+CHK-RPT017-4,RPT017,referential integrity,High,2.0 percent,6.61,Pass,refresh customer hierarchy mapping
+CHK-RPT017-5,RPT017,metric reconciliation,Medium,2.0 percent,5.72,Pass,confirm source owner and rerun validation
+CHK-RPT017-6,RPT017,schema drift,Critical,2.0 percent,6.93,Pass,add exception handling to transformation
+CHK-RPT018-1,RPT018,freshness,Low,24 hours,173.13,Pass,add exception handling to transformation
+CHK-RPT018-2,RPT018,completeness,Critical,2.0 percent,3.43,Pass,publish data quality note to consumers
+CHK-RPT018-3,RPT018,uniqueness,High,2.0 percent,1.7,Warning,add exception handling to transformation
+CHK-RPT018-4,RPT018,referential integrity,High,2.0 percent,2.59,Pass,reconcile against invoice control total
+CHK-RPT018-5,RPT018,metric reconciliation,Critical,2.0 percent,5.2,Warning,publish data quality note to consumers
+CHK-RPT018-6,RPT018,schema drift,Low,2.0 percent,2.21,Fail,reconcile against invoice control total
+CHK-RPT019-1,RPT019,freshness,Critical,24 hours,26.34,Warning,reconcile against invoice control total
+CHK-RPT019-2,RPT019,completeness,High,2.0 percent,6.85,Pass,publish data quality note to consumers
+CHK-RPT019-3,RPT019,uniqueness,Medium,2.0 percent,4.96,Pass,refresh customer hierarchy mapping
+CHK-RPT019-4,RPT019,referential integrity,Low,2.0 percent,3.08,Warning,publish data quality note to consumers
+CHK-RPT019-5,RPT019,metric reconciliation,Low,2.0 percent,0.16,Warning,reconcile against invoice control total
+CHK-RPT019-6,RPT019,schema drift,High,2.0 percent,2.19,Pass,refresh customer hierarchy mapping
+CHK-RPT020-1,RPT020,freshness,Medium,24 hours,110.84,Pass,reconcile against invoice control total
+CHK-RPT020-2,RPT020,completeness,High,2.0 percent,0.98,Pass,add exception handling to transformation
+CHK-RPT020-3,RPT020,uniqueness,Critical,2.0 percent,2.67,Pass,refresh customer hierarchy mapping
+CHK-RPT020-4,RPT020,referential integrity,Critical,2.0 percent,7.27,Pass,add exception handling to transformation
+CHK-RPT020-5,RPT020,metric reconciliation,High,2.0 percent,3.87,Pass,document metric grain and filter logic
+CHK-RPT020-6,RPT020,schema drift,High,2.0 percent,3.52,Pass,confirm source owner and rerun validation
+CHK-RPT021-1,RPT021,freshness,High,24 hours,146.2,Warning,publish data quality note to consumers
+CHK-RPT021-2,RPT021,completeness,High,2.0 percent,1.71,Warning,document metric grain and filter logic
+CHK-RPT021-3,RPT021,uniqueness,Critical,2.0 percent,2.63,Pass,add exception handling to transformation
+CHK-RPT021-4,RPT021,referential integrity,Medium,2.0 percent,2.15,Fail,document metric grain and filter logic
+CHK-RPT021-5,RPT021,metric reconciliation,Low,2.0 percent,5.38,Pass,confirm source owner and rerun validation
+CHK-RPT021-6,RPT021,schema drift,Low,2.0 percent,3.11,Warning,confirm source owner and rerun validation
+CHK-RPT022-1,RPT022,freshness,Medium,24 hours,113.09,Warning,document metric grain and filter logic
+CHK-RPT022-2,RPT022,completeness,Medium,2.0 percent,2.42,Pass,publish data quality note to consumers
+CHK-RPT022-3,RPT022,uniqueness,High,2.0 percent,6.43,Warning,publish data quality note to consumers
+CHK-RPT022-4,RPT022,referential integrity,Critical,2.0 percent,1.57,Warning,confirm source owner and rerun validation
+CHK-RPT022-5,RPT022,metric reconciliation,Medium,2.0 percent,3.92,Pass,confirm source owner and rerun validation
+CHK-RPT022-6,RPT022,schema drift,Low,2.0 percent,1.37,Pass,add exception handling to transformation
+CHK-RPT023-1,RPT023,freshness,Low,24 hours,184.76,Pass,document metric grain and filter logic
+CHK-RPT023-2,RPT023,completeness,High,2.0 percent,1.97,Pass,refresh customer hierarchy mapping
+CHK-RPT023-3,RPT023,uniqueness,Medium,2.0 percent,5.75,Warning,reconcile against invoice control total
+CHK-RPT023-4,RPT023,referential integrity,Low,2.0 percent,3.66,Pass,confirm source owner and rerun validation
+CHK-RPT023-5,RPT023,metric reconciliation,Critical,2.0 percent,0.19,Pass,publish data quality note to consumers
+CHK-RPT023-6,RPT023,schema drift,Low,2.0 percent,4.79,Fail,reconcile against invoice control total
+CHK-RPT024-1,RPT024,freshness,Medium,24 hours,36.87,Pass,document metric grain and filter logic
+CHK-RPT024-2,RPT024,completeness,Medium,2.0 percent,0.98,Pass,add exception handling to transformation
+CHK-RPT024-3,RPT024,uniqueness,Low,2.0 percent,7.18,Pass,refresh customer hierarchy mapping
+CHK-RPT024-4,RPT024,referential integrity,Low,2.0 percent,1.92,Pass,reconcile against invoice control total
+CHK-RPT024-5,RPT024,metric reconciliation,Medium,2.0 percent,3.31,Fail,reconcile against invoice control total
+CHK-RPT024-6,RPT024,schema drift,Critical,2.0 percent,4.98,Pass,publish data quality note to consumers
+CHK-RPT025-1,RPT025,freshness,Medium,24 hours,118.62,Warning,add exception handling to transformation
+CHK-RPT025-2,RPT025,completeness,Critical,2.0 percent,4.24,Pass,refresh customer hierarchy mapping
+CHK-RPT025-3,RPT025,uniqueness,High,2.0 percent,2.71,Pass,publish data quality note to consumers
+CHK-RPT025-4,RPT025,referential integrity,Medium,2.0 percent,7.36,Fail,reconcile against invoice control total
+CHK-RPT025-5,RPT025,metric reconciliation,Medium,2.0 percent,3.95,Pass,add exception handling to transformation
+CHK-RPT025-6,RPT025,schema drift,Low,2.0 percent,0.75,Warning,document metric grain and filter logic
+CHK-RPT026-1,RPT026,freshness,Low,24 hours,61.35,Warning,document metric grain and filter logic
+CHK-RPT026-2,RPT026,completeness,Medium,2.0 percent,3.61,Pass,refresh customer hierarchy mapping
+CHK-RPT026-3,RPT026,uniqueness,Critical,2.0 percent,7.18,Pass,document metric grain and filter logic
+CHK-RPT026-4,RPT026,referential integrity,Medium,2.0 percent,1.45,Pass,publish data quality note to consumers
+CHK-RPT026-5,RPT026,metric reconciliation,Critical,2.0 percent,4.31,Warning,confirm source owner and rerun validation
+CHK-RPT026-6,RPT026,schema drift,Medium,2.0 percent,4.81,Warning,document metric grain and filter logic
+CHK-RPT027-1,RPT027,freshness,Critical,24 hours,167.41,Warning,reconcile against invoice control total
+CHK-RPT027-2,RPT027,completeness,Low,2.0 percent,6.45,Pass,publish data quality note to consumers
+CHK-RPT027-3,RPT027,uniqueness,Low,2.0 percent,1.07,Warning,confirm source owner and rerun validation
+CHK-RPT027-4,RPT027,referential integrity,Low,2.0 percent,1.29,Pass,document metric grain and filter logic
+CHK-RPT027-5,RPT027,metric reconciliation,High,2.0 percent,6.66,Warning,publish data quality note to consumers
+CHK-RPT027-6,RPT027,schema drift,Critical,2.0 percent,0.42,Pass,confirm source owner and rerun validation
+CHK-RPT028-1,RPT028,freshness,Medium,24 hours,179.15,Pass,publish data quality note to consumers
+CHK-RPT028-2,RPT028,completeness,Low,2.0 percent,6.56,Warning,add exception handling to transformation
+CHK-RPT028-3,RPT028,uniqueness,Low,2.0 percent,4.61,Pass,add exception handling to transformation
+CHK-RPT028-4,RPT028,referential integrity,Critical,2.0 percent,6.26,Pass,refresh customer hierarchy mapping
+CHK-RPT028-5,RPT028,metric reconciliation,Medium,2.0 percent,1.28,Pass,publish data quality note to consumers
+CHK-RPT028-6,RPT028,schema drift,Medium,2.0 percent,5.32,Fail,reconcile against invoice control total
+CHK-RPT029-1,RPT029,freshness,High,24 hours,129.0,Warning,add exception handling to transformation
+CHK-RPT029-2,RPT029,completeness,Medium,2.0 percent,2.96,Pass,refresh customer hierarchy mapping
+CHK-RPT029-3,RPT029,uniqueness,Critical,2.0 percent,2.38,Pass,publish data quality note to consumers
+CHK-RPT029-4,RPT029,referential integrity,High,2.0 percent,1.23,Pass,add exception handling to transformation
+CHK-RPT029-5,RPT029,metric reconciliation,Critical,2.0 percent,1.0,Warning,reconcile against invoice control total
+CHK-RPT029-6,RPT029,schema drift,High,2.0 percent,3.35,Pass,confirm source owner and rerun validation
+CHK-RPT030-1,RPT030,freshness,High,24 hours,163.89,Pass,publish data quality note to consumers
+CHK-RPT030-2,RPT030,completeness,High,2.0 percent,6.07,Warning,refresh customer hierarchy mapping
+CHK-RPT030-3,RPT030,uniqueness,Critical,2.0 percent,4.95,Pass,publish data quality note to consumers
+CHK-RPT030-4,RPT030,referential integrity,Critical,2.0 percent,1.32,Pass,add exception handling to transformation
+CHK-RPT030-5,RPT030,metric reconciliation,High,2.0 percent,0.05,Pass,publish data quality note to consumers
+CHK-RPT030-6,RPT030,schema drift,Medium,2.0 percent,5.75,Pass,publish data quality note to consumers
+CHK-RPT031-1,RPT031,freshness,Low,24 hours,160.63,Pass,add exception handling to transformation
+CHK-RPT031-2,RPT031,completeness,Critical,2.0 percent,3.96,Pass,reconcile against invoice control total
+CHK-RPT031-3,RPT031,uniqueness,Low,2.0 percent,2.4,Pass,refresh customer hierarchy mapping
+CHK-RPT031-4,RPT031,referential integrity,Medium,2.0 percent,2.62,Warning,confirm source owner and rerun validation
+CHK-RPT031-5,RPT031,metric reconciliation,Low,2.0 percent,7.03,Pass,refresh customer hierarchy mapping
+CHK-RPT031-6,RPT031,schema drift,Critical,2.0 percent,3.4,Fail,reconcile against invoice control total
+CHK-RPT032-1,RPT032,freshness,High,24 hours,110.86,Pass,publish data quality note to consumers
+CHK-RPT032-2,RPT032,completeness,High,2.0 percent,3.11,Fail,confirm source owner and rerun validation
+CHK-RPT032-3,RPT032,uniqueness,Critical,2.0 percent,6.05,Warning,publish data quality note to consumers
+CHK-RPT032-4,RPT032,referential integrity,Critical,2.0 percent,5.97,Fail,publish data quality note to consumers
+CHK-RPT032-5,RPT032,metric reconciliation,High,2.0 percent,0.41,Pass,document metric grain and filter logic
+CHK-RPT032-6,RPT032,schema drift,Low,2.0 percent,5.77,Pass,add exception handling to transformation

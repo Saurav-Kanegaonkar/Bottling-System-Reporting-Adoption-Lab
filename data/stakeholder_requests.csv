@@ -1,0 +1,196 @@
+request_id,report_id,request_type,stakeholder_group,priority,age_days,status,requirement_clarity,service_action
+REQ-RPT001-1,RPT001,definition clarification,category management,Critical,3,Waiting on stakeholder,Ambiguous,separate one-off extract from recurring report
+REQ-RPT001-2,RPT001,new metric,category management,Low,31,Open,Clear,separate one-off extract from recurring report
+REQ-RPT001-3,RPT001,training,category management,Medium,16,Closed,Ambiguous,publish annotated workbook
+REQ-RPT001-4,RPT001,access,category management,High,43,In review,Needs acceptance criteria,publish annotated workbook
+REQ-RPT002-1,RPT002,new metric,field sales operations,Low,14,Open,Ambiguous,add SQL validation evidence
+REQ-RPT002-2,RPT002,data anomaly,field sales operations,High,5,In review,Needs acceptance criteria,separate one-off extract from recurring report
+REQ-RPT002-3,RPT002,access,field sales operations,Low,28,In review,Needs acceptance criteria,schedule metric walkthrough
+REQ-RPT002-4,RPT002,new metric,field sales operations,Low,19,Closed,Needs acceptance criteria,publish annotated workbook
+REQ-RPT002-5,RPT002,new metric,field sales operations,Critical,14,Waiting on stakeholder,Needs acceptance criteria,confirm business owner
+REQ-RPT002-6,RPT002,access,field sales operations,Medium,23,Waiting on stakeholder,Clear,add SQL validation evidence
+REQ-RPT002-7,RPT002,custom extract,field sales operations,High,23,Closed,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT002-8,RPT002,data anomaly,field sales operations,Low,42,Open,Needs acceptance criteria,confirm business owner
+REQ-RPT003-1,RPT003,training,supply planning,Medium,26,Closed,Clear,create stakeholder FAQ
+REQ-RPT003-2,RPT003,definition clarification,supply planning,Low,1,Waiting on stakeholder,Clear,confirm business owner
+REQ-RPT003-3,RPT003,data anomaly,supply planning,Low,8,Waiting on stakeholder,Ambiguous,separate one-off extract from recurring report
+REQ-RPT003-4,RPT003,training,supply planning,Critical,33,Open,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT003-5,RPT003,access,supply planning,Low,34,Open,Ambiguous,add SQL validation evidence
+REQ-RPT003-6,RPT003,new metric,supply planning,Low,43,In review,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT003-7,RPT003,access,supply planning,Medium,36,In review,Needs acceptance criteria,schedule metric walkthrough
+REQ-RPT003-8,RPT003,access,supply planning,Medium,17,Closed,Clear,confirm business owner
+REQ-RPT004-1,RPT004,data anomaly,commercial leadership,Critical,13,Open,Needs acceptance criteria,confirm business owner
+REQ-RPT004-2,RPT004,data anomaly,commercial leadership,Low,34,Open,Clear,create stakeholder FAQ
+REQ-RPT004-3,RPT004,data anomaly,commercial leadership,Medium,38,In review,Ambiguous,separate one-off extract from recurring report
+REQ-RPT004-4,RPT004,new metric,commercial leadership,High,22,Open,Ambiguous,publish annotated workbook
+REQ-RPT004-5,RPT004,new metric,commercial leadership,Medium,18,Open,Ambiguous,schedule metric walkthrough
+REQ-RPT004-6,RPT004,access,commercial leadership,High,32,Closed,Needs acceptance criteria,confirm business owner
+REQ-RPT004-7,RPT004,data anomaly,commercial leadership,Critical,13,Closed,Ambiguous,schedule metric walkthrough
+REQ-RPT005-1,RPT005,data anomaly,national customer team,Critical,42,In review,Ambiguous,publish annotated workbook
+REQ-RPT005-2,RPT005,definition clarification,national customer team,Critical,36,Open,Ambiguous,schedule metric walkthrough
+REQ-RPT005-3,RPT005,training,national customer team,High,14,In review,Needs acceptance criteria,separate one-off extract from recurring report
+REQ-RPT005-4,RPT005,performance,national customer team,Medium,3,In review,Clear,publish annotated workbook
+REQ-RPT005-5,RPT005,access,national customer team,Critical,5,Closed,Clear,separate one-off extract from recurring report
+REQ-RPT006-1,RPT006,data anomaly,bottler finance leads,High,5,Closed,Ambiguous,create stakeholder FAQ
+REQ-RPT006-2,RPT006,access,bottler finance leads,Low,10,Closed,Needs acceptance criteria,confirm business owner
+REQ-RPT006-3,RPT006,new metric,bottler finance leads,Critical,11,Closed,Ambiguous,separate one-off extract from recurring report
+REQ-RPT006-4,RPT006,training,bottler finance leads,Low,1,Waiting on stakeholder,Ambiguous,schedule metric walkthrough
+REQ-RPT006-5,RPT006,data anomaly,bottler finance leads,Low,27,Closed,Ambiguous,schedule metric walkthrough
+REQ-RPT007-1,RPT007,performance,category management,Medium,29,In review,Ambiguous,separate one-off extract from recurring report
+REQ-RPT007-2,RPT007,performance,category management,High,41,In review,Clear,confirm business owner
+REQ-RPT007-3,RPT007,data anomaly,category management,Medium,29,Open,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT007-4,RPT007,performance,category management,High,16,Waiting on stakeholder,Clear,create stakeholder FAQ
+REQ-RPT007-5,RPT007,performance,category management,Medium,16,In review,Clear,create stakeholder FAQ
+REQ-RPT008-1,RPT008,definition clarification,field sales operations,High,33,Closed,Clear,separate one-off extract from recurring report
+REQ-RPT008-2,RPT008,new metric,field sales operations,High,28,In review,Clear,schedule metric walkthrough
+REQ-RPT008-3,RPT008,custom extract,field sales operations,Critical,32,Open,Clear,separate one-off extract from recurring report
+REQ-RPT008-4,RPT008,performance,field sales operations,High,25,Closed,Clear,schedule metric walkthrough
+REQ-RPT008-5,RPT008,training,field sales operations,Low,10,Open,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT009-1,RPT009,new metric,supply planning,Medium,3,In review,Needs acceptance criteria,publish annotated workbook
+REQ-RPT009-2,RPT009,training,supply planning,Critical,20,Waiting on stakeholder,Needs acceptance criteria,publish annotated workbook
+REQ-RPT009-3,RPT009,data anomaly,supply planning,Critical,35,Closed,Ambiguous,schedule metric walkthrough
+REQ-RPT009-4,RPT009,access,supply planning,Medium,9,Closed,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT009-5,RPT009,new metric,supply planning,Critical,13,Waiting on stakeholder,Ambiguous,schedule metric walkthrough
+REQ-RPT009-6,RPT009,definition clarification,supply planning,Medium,27,Open,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT009-7,RPT009,custom extract,supply planning,Critical,19,Open,Ambiguous,create stakeholder FAQ
+REQ-RPT010-1,RPT010,performance,commercial leadership,High,42,In review,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT010-2,RPT010,definition clarification,commercial leadership,Medium,44,In review,Needs acceptance criteria,separate one-off extract from recurring report
+REQ-RPT010-3,RPT010,custom extract,commercial leadership,High,27,Open,Ambiguous,add SQL validation evidence
+REQ-RPT010-4,RPT010,training,commercial leadership,Medium,22,Closed,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT010-5,RPT010,definition clarification,commercial leadership,Critical,34,Waiting on stakeholder,Ambiguous,publish annotated workbook
+REQ-RPT010-6,RPT010,definition clarification,commercial leadership,High,22,In review,Needs acceptance criteria,schedule metric walkthrough
+REQ-RPT010-7,RPT010,performance,commercial leadership,Medium,29,Waiting on stakeholder,Needs acceptance criteria,confirm business owner
+REQ-RPT010-8,RPT010,performance,commercial leadership,Medium,13,Closed,Clear,add SQL validation evidence
+REQ-RPT011-1,RPT011,training,national customer team,High,21,Open,Clear,add SQL validation evidence
+REQ-RPT011-2,RPT011,custom extract,national customer team,Critical,32,Open,Clear,schedule metric walkthrough
+REQ-RPT011-3,RPT011,access,national customer team,Medium,40,Waiting on stakeholder,Ambiguous,confirm business owner
+REQ-RPT011-4,RPT011,performance,national customer team,Low,26,Open,Ambiguous,schedule metric walkthrough
+REQ-RPT011-5,RPT011,data anomaly,national customer team,Critical,27,In review,Clear,confirm business owner
+REQ-RPT012-1,RPT012,new metric,bottler finance leads,Medium,33,Open,Needs acceptance criteria,publish annotated workbook
+REQ-RPT012-2,RPT012,access,bottler finance leads,High,6,In review,Needs acceptance criteria,confirm business owner
+REQ-RPT012-3,RPT012,custom extract,bottler finance leads,Low,33,Closed,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT012-4,RPT012,custom extract,bottler finance leads,Low,1,Closed,Clear,confirm business owner
+REQ-RPT012-5,RPT012,custom extract,bottler finance leads,Critical,1,Closed,Ambiguous,separate one-off extract from recurring report
+REQ-RPT012-6,RPT012,performance,bottler finance leads,Medium,40,In review,Ambiguous,schedule metric walkthrough
+REQ-RPT013-1,RPT013,data anomaly,category management,High,3,In review,Ambiguous,create stakeholder FAQ
+REQ-RPT013-2,RPT013,custom extract,category management,High,38,Waiting on stakeholder,Clear,add SQL validation evidence
+REQ-RPT013-3,RPT013,new metric,category management,Low,26,Waiting on stakeholder,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT013-4,RPT013,training,category management,High,31,Waiting on stakeholder,Ambiguous,create stakeholder FAQ
+REQ-RPT013-5,RPT013,data anomaly,category management,Medium,36,Open,Clear,separate one-off extract from recurring report
+REQ-RPT014-1,RPT014,definition clarification,field sales operations,Low,22,Closed,Clear,add SQL validation evidence
+REQ-RPT014-2,RPT014,training,field sales operations,Critical,14,Waiting on stakeholder,Clear,schedule metric walkthrough
+REQ-RPT014-3,RPT014,performance,field sales operations,Critical,1,Open,Ambiguous,create stakeholder FAQ
+REQ-RPT014-4,RPT014,access,field sales operations,Low,27,Open,Ambiguous,add SQL validation evidence
+REQ-RPT014-5,RPT014,data anomaly,field sales operations,Low,29,Closed,Needs acceptance criteria,schedule metric walkthrough
+REQ-RPT014-6,RPT014,custom extract,field sales operations,Medium,19,Waiting on stakeholder,Ambiguous,add SQL validation evidence
+REQ-RPT014-7,RPT014,access,field sales operations,Critical,38,Open,Ambiguous,schedule metric walkthrough
+REQ-RPT015-1,RPT015,data anomaly,supply planning,Medium,25,Closed,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT015-2,RPT015,training,supply planning,High,17,Closed,Clear,create stakeholder FAQ
+REQ-RPT015-3,RPT015,performance,supply planning,Medium,18,In review,Needs acceptance criteria,schedule metric walkthrough
+REQ-RPT015-4,RPT015,training,supply planning,Medium,16,In review,Ambiguous,add SQL validation evidence
+REQ-RPT015-5,RPT015,performance,supply planning,Critical,38,Closed,Needs acceptance criteria,separate one-off extract from recurring report
+REQ-RPT015-6,RPT015,new metric,supply planning,Low,33,Closed,Needs acceptance criteria,confirm business owner
+REQ-RPT016-1,RPT016,new metric,commercial leadership,High,7,Waiting on stakeholder,Ambiguous,schedule metric walkthrough
+REQ-RPT016-2,RPT016,data anomaly,commercial leadership,Critical,15,Waiting on stakeholder,Ambiguous,create stakeholder FAQ
+REQ-RPT016-3,RPT016,training,commercial leadership,High,7,In review,Ambiguous,create stakeholder FAQ
+REQ-RPT016-4,RPT016,new metric,commercial leadership,Medium,29,Open,Clear,publish annotated workbook
+REQ-RPT016-5,RPT016,definition clarification,commercial leadership,Medium,2,Waiting on stakeholder,Needs acceptance criteria,publish annotated workbook
+REQ-RPT016-6,RPT016,new metric,commercial leadership,Medium,6,In review,Needs acceptance criteria,separate one-off extract from recurring report
+REQ-RPT016-7,RPT016,training,commercial leadership,High,29,Open,Clear,create stakeholder FAQ
+REQ-RPT016-8,RPT016,data anomaly,commercial leadership,High,26,Closed,Ambiguous,create stakeholder FAQ
+REQ-RPT017-1,RPT017,data anomaly,national customer team,Low,25,In review,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT017-2,RPT017,access,national customer team,Medium,29,Open,Ambiguous,separate one-off extract from recurring report
+REQ-RPT017-3,RPT017,training,national customer team,Low,4,Waiting on stakeholder,Clear,publish annotated workbook
+REQ-RPT017-4,RPT017,access,national customer team,Critical,30,Closed,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT017-5,RPT017,performance,national customer team,High,38,In review,Ambiguous,publish annotated workbook
+REQ-RPT018-1,RPT018,training,bottler finance leads,Critical,31,In review,Needs acceptance criteria,schedule metric walkthrough
+REQ-RPT018-2,RPT018,performance,bottler finance leads,Critical,31,Waiting on stakeholder,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT018-3,RPT018,performance,bottler finance leads,Low,9,Open,Ambiguous,add SQL validation evidence
+REQ-RPT018-4,RPT018,training,bottler finance leads,High,43,Open,Clear,confirm business owner
+REQ-RPT018-5,RPT018,definition clarification,bottler finance leads,High,20,In review,Ambiguous,separate one-off extract from recurring report
+REQ-RPT019-1,RPT019,data anomaly,category management,Critical,38,Closed,Needs acceptance criteria,confirm business owner
+REQ-RPT019-2,RPT019,training,category management,Low,16,Closed,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT019-3,RPT019,training,category management,Critical,33,Closed,Ambiguous,schedule metric walkthrough
+REQ-RPT019-4,RPT019,performance,category management,Critical,34,Closed,Clear,confirm business owner
+REQ-RPT019-5,RPT019,new metric,category management,High,8,In review,Needs acceptance criteria,confirm business owner
+REQ-RPT019-6,RPT019,new metric,category management,High,40,Open,Ambiguous,add SQL validation evidence
+REQ-RPT019-7,RPT019,custom extract,category management,High,17,Closed,Needs acceptance criteria,publish annotated workbook
+REQ-RPT019-8,RPT019,access,category management,Low,29,In review,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT020-1,RPT020,training,field sales operations,Medium,31,Closed,Clear,schedule metric walkthrough
+REQ-RPT020-2,RPT020,performance,field sales operations,High,17,Closed,Ambiguous,publish annotated workbook
+REQ-RPT020-3,RPT020,performance,field sales operations,Critical,18,Open,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT020-4,RPT020,new metric,field sales operations,Medium,40,Open,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT020-5,RPT020,custom extract,field sales operations,Low,16,Closed,Ambiguous,publish annotated workbook
+REQ-RPT020-6,RPT020,performance,field sales operations,Low,15,Waiting on stakeholder,Needs acceptance criteria,confirm business owner
+REQ-RPT021-1,RPT021,performance,supply planning,Low,44,Open,Ambiguous,separate one-off extract from recurring report
+REQ-RPT021-2,RPT021,definition clarification,supply planning,High,35,Closed,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT021-3,RPT021,new metric,supply planning,Critical,23,Open,Clear,publish annotated workbook
+REQ-RPT021-4,RPT021,performance,supply planning,Medium,39,In review,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT021-5,RPT021,access,supply planning,Critical,20,Closed,Clear,schedule metric walkthrough
+REQ-RPT021-6,RPT021,custom extract,supply planning,Critical,31,Open,Ambiguous,create stakeholder FAQ
+REQ-RPT021-7,RPT021,data anomaly,supply planning,Critical,27,Closed,Ambiguous,confirm business owner
+REQ-RPT021-8,RPT021,access,supply planning,Low,26,In review,Clear,confirm business owner
+REQ-RPT022-1,RPT022,data anomaly,commercial leadership,Low,16,Open,Clear,publish annotated workbook
+REQ-RPT022-2,RPT022,definition clarification,commercial leadership,Critical,9,Waiting on stakeholder,Ambiguous,confirm business owner
+REQ-RPT022-3,RPT022,performance,commercial leadership,Critical,20,Open,Ambiguous,add SQL validation evidence
+REQ-RPT022-4,RPT022,access,commercial leadership,Critical,24,Waiting on stakeholder,Ambiguous,create stakeholder FAQ
+REQ-RPT022-5,RPT022,access,commercial leadership,Low,21,In review,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT022-6,RPT022,training,commercial leadership,Medium,17,Waiting on stakeholder,Needs acceptance criteria,schedule metric walkthrough
+REQ-RPT022-7,RPT022,data anomaly,commercial leadership,Low,42,Closed,Needs acceptance criteria,publish annotated workbook
+REQ-RPT023-1,RPT023,performance,national customer team,Low,5,In review,Ambiguous,confirm business owner
+REQ-RPT023-2,RPT023,data anomaly,national customer team,High,33,In review,Ambiguous,schedule metric walkthrough
+REQ-RPT023-3,RPT023,new metric,national customer team,Medium,2,Waiting on stakeholder,Clear,create stakeholder FAQ
+REQ-RPT023-4,RPT023,training,national customer team,Low,19,Waiting on stakeholder,Needs acceptance criteria,confirm business owner
+REQ-RPT024-1,RPT024,performance,bottler finance leads,Critical,39,Open,Clear,schedule metric walkthrough
+REQ-RPT024-2,RPT024,performance,bottler finance leads,Medium,14,In review,Clear,add SQL validation evidence
+REQ-RPT024-3,RPT024,data anomaly,bottler finance leads,High,1,Waiting on stakeholder,Clear,add SQL validation evidence
+REQ-RPT024-4,RPT024,definition clarification,bottler finance leads,Critical,21,Waiting on stakeholder,Ambiguous,publish annotated workbook
+REQ-RPT024-5,RPT024,access,bottler finance leads,Critical,34,Closed,Clear,separate one-off extract from recurring report
+REQ-RPT024-6,RPT024,custom extract,bottler finance leads,Medium,31,Closed,Ambiguous,confirm business owner
+REQ-RPT024-7,RPT024,definition clarification,bottler finance leads,Medium,16,In review,Clear,add SQL validation evidence
+REQ-RPT025-1,RPT025,custom extract,category management,High,10,Open,Clear,confirm business owner
+REQ-RPT025-2,RPT025,training,category management,High,21,Closed,Needs acceptance criteria,create stakeholder FAQ
+REQ-RPT025-3,RPT025,new metric,category management,Critical,43,In review,Ambiguous,separate one-off extract from recurring report
+REQ-RPT025-4,RPT025,custom extract,category management,High,4,Closed,Needs acceptance criteria,schedule metric walkthrough
+REQ-RPT025-5,RPT025,new metric,category management,Medium,5,Waiting on stakeholder,Clear,separate one-off extract from recurring report
+REQ-RPT025-6,RPT025,definition clarification,category management,Critical,16,In review,Ambiguous,create stakeholder FAQ
+REQ-RPT025-7,RPT025,training,category management,Medium,14,Waiting on stakeholder,Ambiguous,create stakeholder FAQ
+REQ-RPT026-1,RPT026,definition clarification,field sales operations,High,19,Closed,Ambiguous,schedule metric walkthrough
+REQ-RPT026-2,RPT026,data anomaly,field sales operations,Low,15,Waiting on stakeholder,Ambiguous,create stakeholder FAQ
+REQ-RPT026-3,RPT026,access,field sales operations,Medium,28,Waiting on stakeholder,Needs acceptance criteria,separate one-off extract from recurring report
+REQ-RPT026-4,RPT026,new metric,field sales operations,Low,39,In review,Ambiguous,confirm business owner
+REQ-RPT026-5,RPT026,performance,field sales operations,Low,20,In review,Needs acceptance criteria,publish annotated workbook
+REQ-RPT026-6,RPT026,training,field sales operations,High,12,Waiting on stakeholder,Ambiguous,separate one-off extract from recurring report
+REQ-RPT027-1,RPT027,data anomaly,supply planning,Critical,42,Open,Needs acceptance criteria,separate one-off extract from recurring report
+REQ-RPT027-2,RPT027,performance,supply planning,Low,16,Waiting on stakeholder,Ambiguous,create stakeholder FAQ
+REQ-RPT027-3,RPT027,custom extract,supply planning,High,5,In review,Ambiguous,add SQL validation evidence
+REQ-RPT027-4,RPT027,custom extract,supply planning,Low,30,Waiting on stakeholder,Ambiguous,schedule metric walkthrough
+REQ-RPT027-5,RPT027,performance,supply planning,High,2,Waiting on stakeholder,Ambiguous,confirm business owner
+REQ-RPT027-6,RPT027,data anomaly,supply planning,High,4,Waiting on stakeholder,Ambiguous,add SQL validation evidence
+REQ-RPT027-7,RPT027,custom extract,supply planning,High,27,Waiting on stakeholder,Clear,publish annotated workbook
+REQ-RPT028-1,RPT028,access,commercial leadership,Low,43,Closed,Clear,schedule metric walkthrough
+REQ-RPT028-2,RPT028,performance,commercial leadership,High,38,Closed,Clear,separate one-off extract from recurring report
+REQ-RPT028-3,RPT028,access,commercial leadership,Medium,22,In review,Clear,publish annotated workbook
+REQ-RPT028-4,RPT028,new metric,commercial leadership,High,35,Waiting on stakeholder,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT029-1,RPT029,custom extract,national customer team,High,18,In review,Ambiguous,schedule metric walkthrough
+REQ-RPT029-2,RPT029,definition clarification,national customer team,High,17,Open,Clear,confirm business owner
+REQ-RPT029-3,RPT029,data anomaly,national customer team,Medium,7,Waiting on stakeholder,Clear,create stakeholder FAQ
+REQ-RPT029-4,RPT029,performance,national customer team,Critical,16,Open,Needs acceptance criteria,separate one-off extract from recurring report
+REQ-RPT029-5,RPT029,data anomaly,national customer team,Low,3,In review,Needs acceptance criteria,separate one-off extract from recurring report
+REQ-RPT030-1,RPT030,data anomaly,bottler finance leads,Medium,25,In review,Clear,add SQL validation evidence
+REQ-RPT030-2,RPT030,definition clarification,bottler finance leads,High,24,Waiting on stakeholder,Ambiguous,create stakeholder FAQ
+REQ-RPT030-3,RPT030,custom extract,bottler finance leads,Medium,33,Waiting on stakeholder,Ambiguous,create stakeholder FAQ
+REQ-RPT030-4,RPT030,training,bottler finance leads,Critical,23,Closed,Ambiguous,separate one-off extract from recurring report
+REQ-RPT030-5,RPT030,data anomaly,bottler finance leads,Medium,39,In review,Ambiguous,confirm business owner
+REQ-RPT031-1,RPT031,data anomaly,category management,Low,2,Waiting on stakeholder,Clear,confirm business owner
+REQ-RPT031-2,RPT031,performance,category management,High,29,Closed,Ambiguous,publish annotated workbook
+REQ-RPT031-3,RPT031,custom extract,category management,Low,44,Waiting on stakeholder,Needs acceptance criteria,publish annotated workbook
+REQ-RPT031-4,RPT031,definition clarification,category management,Medium,39,Closed,Ambiguous,publish annotated workbook
+REQ-RPT031-5,RPT031,new metric,category management,Low,36,Closed,Needs acceptance criteria,separate one-off extract from recurring report
+REQ-RPT031-6,RPT031,definition clarification,category management,High,26,Open,Needs acceptance criteria,add SQL validation evidence
+REQ-RPT032-1,RPT032,custom extract,field sales operations,Critical,11,Waiting on stakeholder,Ambiguous,separate one-off extract from recurring report
+REQ-RPT032-2,RPT032,access,field sales operations,Critical,1,In review,Clear,create stakeholder FAQ
+REQ-RPT032-3,RPT032,new metric,field sales operations,Critical,23,Closed,Needs acceptance criteria,schedule metric walkthrough
+REQ-RPT032-4,RPT032,custom extract,field sales operations,Low,43,In review,Clear,create stakeholder FAQ
+REQ-RPT032-5,RPT032,training,field sales operations,Medium,3,Waiting on stakeholder,Needs acceptance criteria,confirm business owner
+REQ-RPT032-6,RPT032,new metric,field sales operations,Critical,19,In review,Ambiguous,schedule metric walkthrough

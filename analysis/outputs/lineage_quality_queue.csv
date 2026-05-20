@@ -1,0 +1,161 @@
+report_id,report_name,source_system,pipeline_stage,dependency_tier,owner,last_validated_days,open_exception,business_impact,risk_score
+RPT025,Power BI Usage and Training,trade program system,validation,Critical,data strategy,62,Yes,missing store mapping,109.8
+RPT017,Program Accrual Watchlist,customer hierarchy master,published report,Critical,reporting services,61,Yes,late invoice adjustment,109.4
+RPT009,Pricing Exception Digest,retailer POS feed,validation,Critical,data strategy,60,Yes,metric delay,109.0
+RPT002,Bottler Invoice Reconciliation,retailer POS feed,warehouse model,Critical,reporting services,54,Yes,incorrect segmentation,106.6
+RPT005,Customer Hierarchy Health,planning workbook intake,validation,Critical,finance analytics,49,Yes,metric delay,104.6
+RPT009,Pricing Exception Digest,retailer POS feed,landing,Critical,BI delivery,47,Yes,late invoice adjustment,103.8
+RPT006,Distributor Volume Bridge,distributor reconciliation feed,landing,Critical,finance analytics,39,Yes,late invoice adjustment,100.6
+RPT014,Invoice Adjustment Explorer,customer EDI gateway,landing,Critical,reporting services,38,Yes,late invoice adjustment,100.2
+RPT010,Customer Onboarding Readiness,customer hierarchy master,validation,Critical,reporting services,36,Yes,missing store mapping,99.4
+RPT005,Customer Hierarchy Health,planning workbook intake,warehouse model,Critical,customer data operations,34,Yes,late invoice adjustment,98.6
+RPT022,Funding Claim Audit,bottler invoice hub,landing,Critical,reporting services,31,Yes,incorrect segmentation,97.4
+RPT006,Distributor Volume Bridge,distributor reconciliation feed,validation,Important,finance analytics,65,Yes,incorrect segmentation,96
+RPT029,Churn and Penetration Monitor,bottler invoice hub,validation,Important,customer data operations,65,Yes,missing store mapping,96
+RPT024,Data Stewardship Queue,customer hierarchy master,semantic model,Critical,finance analytics,25,Yes,incorrect segmentation,95.0
+RPT019,Channel Penetration Trends,planning workbook intake,warehouse model,Critical,data strategy,24,Yes,late invoice adjustment,94.6
+RPT008,Outlet Segmentation Monitor,bottler invoice hub,published report,Critical,reporting services,21,Yes,incorrect segmentation,93.4
+RPT019,Channel Penetration Trends,planning workbook intake,landing,Critical,finance analytics,20,Yes,late invoice adjustment,93.0
+RPT011,Promotion Compliance View,trade program system,published report,Important,governance and training,54,Yes,late invoice adjustment,92.6
+RPT004,Trade Program Funding Tracker,trade program system,landing,Important,BI delivery,50,Yes,metric delay,91.0
+RPT006,Distributor Volume Bridge,distributor reconciliation feed,semantic model,Important,finance analytics,50,Yes,late invoice adjustment,91.0
+RPT027,Metric Definition Catalog,distributor reconciliation feed,semantic model,Critical,governance and training,42,Yes,none,89.8
+RPT010,Customer Onboarding Readiness,customer hierarchy master,published report,Critical,finance analytics,11,Yes,metric delay,89.4
+RPT009,Pricing Exception Digest,retailer POS feed,semantic model,Critical,governance and training,9,Yes,incorrect segmentation,88.6
+RPT015,Retailer Data Quality Pulse,bottler invoice hub,validation,Critical,customer data operations,7,Yes,missing store mapping,87.8
+RPT025,Power BI Usage and Training,trade program system,published report,Important,customer data operations,42,Yes,late invoice adjustment,87.8
+RPT024,Data Stewardship Queue,customer hierarchy master,landing,Critical,customer data operations,5,Yes,late invoice adjustment,87.0
+RPT021,Store Count Reconciliation,customer EDI gateway,published report,Critical,customer data operations,1,Yes,metric delay,85.4
+RPT023,Planning Assumption Tracker,retailer POS feed,warehouse model,Important,customer data operations,32,Yes,missing store mapping,83.8
+RPT024,Data Stewardship Queue,customer hierarchy master,validation,Critical,finance analytics,25,Yes,none,83.0
+RPT005,Customer Hierarchy Health,planning workbook intake,published report,Standard,BI delivery,65,Yes,late invoice adjustment,82
+RPT002,Bottler Invoice Reconciliation,retailer POS feed,semantic model,Standard,reporting services,62,Yes,metric delay,81.8
+RPT029,Churn and Penetration Monitor,bottler invoice hub,landing,Standard,finance analytics,60,Yes,late invoice adjustment,81.0
+RPT025,Power BI Usage and Training,trade program system,semantic model,Important,governance and training,24,Yes,metric delay,80.6
+RPT020,Stakeholder Request Backlog,distributor reconciliation feed,published report,Standard,data strategy,57,Yes,metric delay,79.8
+RPT018,Executive KPI Overview,trade program system,landing,Important,customer data operations,21,Yes,metric delay,79.4
+RPT021,Store Count Reconciliation,customer EDI gateway,validation,Important,reporting services,48,Yes,none,78.2
+RPT027,Metric Definition Catalog,distributor reconciliation feed,warehouse model,Standard,data strategy,52,Yes,metric delay,77.8
+RPT008,Outlet Segmentation Monitor,bottler invoice hub,warehouse model,Important,finance analytics,15,Yes,incorrect segmentation,77.0
+RPT014,Invoice Adjustment Explorer,customer EDI gateway,validation,Important,reporting services,12,Yes,missing store mapping,75.8
+RPT015,Retailer Data Quality Pulse,bottler invoice hub,semantic model,Standard,data strategy,46,Yes,missing store mapping,75.4
+RPT014,Invoice Adjustment Explorer,customer EDI gateway,warehouse model,Critical,reporting services,64,No,incorrect segmentation,75
+RPT017,Program Accrual Watchlist,customer hierarchy master,landing,Critical,data strategy,63,No,metric delay,75
+RPT028,Variance Contribution Workbench,customer EDI gateway,validation,Critical,governance and training,63,No,late invoice adjustment,75
+RPT019,Channel Penetration Trends,planning workbook intake,validation,Standard,reporting services,44,Yes,late invoice adjustment,74.6
+RPT013,Monthly Business Review Pack,distributor reconciliation feed,landing,Critical,reporting services,61,No,missing store mapping,74.4
+RPT011,Promotion Compliance View,trade program system,validation,Critical,BI delivery,2,Yes,none,73.8
+RPT002,Bottler Invoice Reconciliation,retailer POS feed,landing,Standard,customer data operations,41,Yes,metric delay,73.4
+RPT011,Promotion Compliance View,trade program system,warehouse model,Important,governance and training,6,Yes,late invoice adjustment,73.4
+RPT016,Bottler Performance Summary,retailer POS feed,validation,Standard,BI delivery,40,Yes,missing store mapping,73.0
+RPT026,Source Refresh Reliability,planning workbook intake,semantic model,Critical,finance analytics,0,Yes,none,73.0
+RPT030,Change Contribution Review,retailer POS feed,validation,Critical,governance and training,56,No,late invoice adjustment,72.4
+RPT028,Variance Contribution Workbench,customer EDI gateway,published report,Standard,finance analytics,38,Yes,incorrect segmentation,72.2
+RPT013,Monthly Business Review Pack,distributor reconciliation feed,published report,Critical,finance analytics,55,No,incorrect segmentation,72.0
+RPT021,Store Count Reconciliation,customer EDI gateway,warehouse model,Critical,governance and training,53,No,late invoice adjustment,71.2
+RPT005,Customer Hierarchy Health,planning workbook intake,landing,Critical,reporting services,52,No,metric delay,70.8
+RPT018,Executive KPI Overview,trade program system,warehouse model,Standard,customer data operations,33,Yes,missing store mapping,70.2
+RPT006,Distributor Volume Bridge,distributor reconciliation feed,published report,Standard,customer data operations,32,Yes,incorrect segmentation,69.8
+RPT022,Funding Claim Audit,bottler invoice hub,warehouse model,Critical,data strategy,49,No,late invoice adjustment,69.6
+RPT025,Power BI Usage and Training,trade program system,landing,Critical,finance analytics,48,No,missing store mapping,69.2
+RPT016,Bottler Performance Summary,retailer POS feed,landing,Standard,BI delivery,30,Yes,metric delay,69.0
+RPT022,Funding Claim Audit,bottler invoice hub,semantic model,Critical,governance and training,46,No,late invoice adjustment,68.4
+RPT021,Store Count Reconciliation,customer EDI gateway,semantic model,Standard,data strategy,56,Yes,none,67.4
+RPT019,Channel Penetration Trends,planning workbook intake,semantic model,Standard,customer data operations,20,Yes,missing store mapping,65.0
+RPT011,Promotion Compliance View,trade program system,semantic model,Critical,BI delivery,37,No,metric delay,64.8
+RPT001,National Customer Scorecard,bottler invoice hub,semantic model,Standard,governance and training,17,Yes,late invoice adjustment,63.8
+RPT004,Trade Program Funding Tracker,trade program system,warehouse model,Critical,BI delivery,34,No,metric delay,63.6
+RPT029,Churn and Penetration Monitor,bottler invoice hub,warehouse model,Standard,BI delivery,15,Yes,metric delay,63.0
+RPT010,Customer Onboarding Readiness,customer hierarchy master,semantic model,Critical,data strategy,32,No,late invoice adjustment,62.8
+RPT002,Bottler Invoice Reconciliation,retailer POS feed,validation,Critical,data strategy,30,No,metric delay,62.0
+RPT029,Churn and Penetration Monitor,bottler invoice hub,published report,Standard,finance analytics,11,Yes,incorrect segmentation,61.4
+RPT017,Program Accrual Watchlist,customer hierarchy master,warehouse model,Critical,governance and training,28,No,missing store mapping,61.2
+RPT019,Channel Penetration Trends,planning workbook intake,published report,Critical,customer data operations,27,No,metric delay,60.8
+RPT023,Planning Assumption Tracker,retailer POS feed,published report,Critical,BI delivery,57,No,none,60.8
+RPT008,Outlet Segmentation Monitor,bottler invoice hub,validation,Critical,data strategy,23,No,late invoice adjustment,59.2
+RPT031,Sales Team Service Desk,customer hierarchy master,published report,Important,data strategy,58,No,late invoice adjustment,59.2
+RPT012,Route-to-Market Snapshot,planning workbook intake,validation,Critical,reporting services,20,No,late invoice adjustment,58.0
+RPT012,Route-to-Market Snapshot,planning workbook intake,semantic model,Critical,reporting services,19,No,metric delay,57.6
+RPT026,Source Refresh Reliability,planning workbook intake,published report,Critical,finance analytics,49,No,none,57.6
+RPT023,Planning Assumption Tracker,retailer POS feed,validation,Standard,data strategy,1,Yes,incorrect segmentation,57.4
+RPT008,Outlet Segmentation Monitor,bottler invoice hub,semantic model,Important,BI delivery,53,No,metric delay,57.2
+RPT015,Retailer Data Quality Pulse,bottler invoice hub,landing,Critical,data strategy,18,No,late invoice adjustment,57.2
+RPT020,Stakeholder Request Backlog,distributor reconciliation feed,landing,Critical,BI delivery,47,No,none,56.8
+RPT031,Sales Team Service Desk,customer hierarchy master,landing,Critical,data strategy,17,No,missing store mapping,56.8
+RPT001,National Customer Scorecard,bottler invoice hub,warehouse model,Important,governance and training,50,No,late invoice adjustment,56.0
+RPT002,Bottler Invoice Reconciliation,retailer POS feed,published report,Important,BI delivery,48,No,incorrect segmentation,55.2
+RPT025,Power BI Usage and Training,trade program system,warehouse model,Critical,customer data operations,13,No,incorrect segmentation,55.2
+RPT001,National Customer Scorecard,bottler invoice hub,landing,Important,governance and training,47,No,late invoice adjustment,54.8
+RPT007,Forecast Variance Review,customer EDI gateway,published report,Critical,governance and training,11,No,missing store mapping,54.4
+RPT007,Forecast Variance Review,customer EDI gateway,warehouse model,Important,reporting services,45,No,metric delay,54.0
+RPT022,Funding Claim Audit,bottler invoice hub,validation,Critical,finance analytics,9,No,incorrect segmentation,53.6
+RPT024,Data Stewardship Queue,customer hierarchy master,published report,Critical,data strategy,9,No,incorrect segmentation,53.6
+RPT026,Source Refresh Reliability,planning workbook intake,warehouse model,Standard,reporting services,21,Yes,none,53.4
+RPT007,Forecast Variance Review,customer EDI gateway,validation,Critical,customer data operations,8,No,missing store mapping,53.2
+RPT005,Customer Hierarchy Health,planning workbook intake,semantic model,Standard,data strategy,19,Yes,none,52.6
+RPT001,National Customer Scorecard,bottler invoice hub,validation,Important,governance and training,38,No,missing store mapping,51.2
+RPT026,Source Refresh Reliability,planning workbook intake,validation,Important,finance analytics,38,No,incorrect segmentation,51.2
+RPT032,External Reporting Package,trade program system,published report,Critical,governance and training,2,No,incorrect segmentation,50.8
+RPT022,Funding Claim Audit,bottler invoice hub,published report,Important,reporting services,36,No,metric delay,50.4
+RPT016,Bottler Performance Summary,retailer POS feed,warehouse model,Important,customer data operations,35,No,missing store mapping,50.0
+RPT027,Metric Definition Catalog,distributor reconciliation feed,published report,Important,reporting services,34,No,late invoice adjustment,49.6
+RPT012,Route-to-Market Snapshot,planning workbook intake,published report,Important,finance analytics,61,No,none,48.4
+RPT013,Monthly Business Review Pack,distributor reconciliation feed,warehouse model,Standard,reporting services,8,Yes,none,48.2
+RPT004,Trade Program Funding Tracker,trade program system,semantic model,Important,governance and training,60,No,none,48.0
+RPT006,Distributor Volume Bridge,distributor reconciliation feed,warehouse model,Important,data strategy,58,No,none,47.2
+RPT018,Executive KPI Overview,trade program system,validation,Important,data strategy,28,No,metric delay,47.2
+RPT028,Variance Contribution Workbench,customer EDI gateway,semantic model,Standard,governance and training,64,No,missing store mapping,47
+RPT013,Monthly Business Review Pack,distributor reconciliation feed,semantic model,Important,BI delivery,57,No,none,46.8
+RPT026,Source Refresh Reliability,planning workbook intake,landing,Standard,reporting services,4,Yes,none,46.6
+RPT012,Route-to-Market Snapshot,planning workbook intake,landing,Standard,BI delivery,61,No,incorrect segmentation,46.4
+RPT015,Retailer Data Quality Pulse,bottler invoice hub,warehouse model,Critical,reporting services,21,No,none,46.4
+RPT011,Promotion Compliance View,trade program system,landing,Critical,governance and training,20,No,none,46.0
+RPT016,Bottler Performance Summary,retailer POS feed,published report,Standard,data strategy,60,No,metric delay,46.0
+RPT029,Churn and Penetration Monitor,bottler invoice hub,semantic model,Standard,finance analytics,60,No,late invoice adjustment,46.0
+RPT004,Trade Program Funding Tracker,trade program system,validation,Standard,customer data operations,58,No,missing store mapping,45.2
+RPT027,Metric Definition Catalog,distributor reconciliation feed,validation,Important,finance analytics,22,No,late invoice adjustment,44.8
+RPT017,Program Accrual Watchlist,customer hierarchy master,validation,Important,reporting services,21,No,incorrect segmentation,44.4
+RPT031,Sales Team Service Desk,customer hierarchy master,warehouse model,Important,finance analytics,21,No,late invoice adjustment,44.4
+RPT031,Sales Team Service Desk,customer hierarchy master,validation,Critical,finance analytics,11,No,none,42.4
+RPT007,Forecast Variance Review,customer EDI gateway,semantic model,Standard,data strategy,49,No,incorrect segmentation,41.6
+RPT023,Planning Assumption Tracker,retailer POS feed,semantic model,Standard,finance analytics,49,No,incorrect segmentation,41.6
+RPT003,Retailer POS Sell-Through,customer hierarchy master,semantic model,Standard,BI delivery,48,No,missing store mapping,41.2
+RPT032,External Reporting Package,trade program system,validation,Important,data strategy,12,No,metric delay,40.8
+RPT016,Bottler Performance Summary,retailer POS feed,semantic model,Standard,data strategy,46,No,incorrect segmentation,40.4
+RPT001,National Customer Scorecard,bottler invoice hub,published report,Important,reporting services,10,No,missing store mapping,40.0
+RPT024,Data Stewardship Queue,customer hierarchy master,warehouse model,Important,reporting services,9,No,late invoice adjustment,39.6
+RPT008,Outlet Segmentation Monitor,bottler invoice hub,landing,Important,customer data operations,8,No,metric delay,39.2
+RPT020,Stakeholder Request Backlog,distributor reconciliation feed,semantic model,Important,BI delivery,8,No,missing store mapping,39.2
+RPT007,Forecast Variance Review,customer EDI gateway,landing,Critical,data strategy,1,No,none,38.4
+RPT010,Customer Onboarding Readiness,customer hierarchy master,landing,Important,finance analytics,6,No,late invoice adjustment,38.4
+RPT023,Planning Assumption Tracker,retailer POS feed,landing,Standard,governance and training,41,No,incorrect segmentation,38.4
+RPT015,Retailer Data Quality Pulse,bottler invoice hub,published report,Important,data strategy,35,No,none,38.0
+RPT014,Invoice Adjustment Explorer,customer EDI gateway,semantic model,Important,BI delivery,4,No,metric delay,37.6
+RPT009,Pricing Exception Digest,retailer POS feed,published report,Important,finance analytics,2,No,missing store mapping,36.8
+RPT018,Executive KPI Overview,trade program system,published report,Standard,finance analytics,37,No,late invoice adjustment,36.8
+RPT003,Retailer POS Sell-Through,customer hierarchy master,landing,Important,data strategy,1,No,incorrect segmentation,36.4
+RPT031,Sales Team Service Desk,customer hierarchy master,semantic model,Standard,BI delivery,33,No,late invoice adjustment,35.2
+RPT004,Trade Program Funding Tracker,trade program system,published report,Important,governance and training,25,No,none,34.0
+RPT013,Monthly Business Review Pack,distributor reconciliation feed,validation,Standard,BI delivery,29,No,incorrect segmentation,33.6
+RPT014,Invoice Adjustment Explorer,customer EDI gateway,published report,Standard,customer data operations,29,No,missing store mapping,33.6
+RPT028,Variance Contribution Workbench,customer EDI gateway,landing,Standard,BI delivery,25,No,late invoice adjustment,32.0
+RPT003,Retailer POS Sell-Through,customer hierarchy master,warehouse model,Standard,governance and training,53,No,none,31.2
+RPT032,External Reporting Package,trade program system,warehouse model,Standard,customer data operations,23,No,metric delay,31.2
+RPT032,External Reporting Package,trade program system,semantic model,Standard,customer data operations,21,No,incorrect segmentation,30.4
+RPT030,Change Contribution Review,retailer POS feed,landing,Standard,BI delivery,20,No,missing store mapping,30.0
+RPT017,Program Accrual Watchlist,customer hierarchy master,semantic model,Standard,reporting services,18,No,incorrect segmentation,29.2
+RPT020,Stakeholder Request Backlog,distributor reconciliation feed,validation,Standard,governance and training,17,No,incorrect segmentation,28.8
+RPT003,Retailer POS Sell-Through,customer hierarchy master,published report,Standard,customer data operations,14,No,late invoice adjustment,27.6
+RPT021,Store Count Reconciliation,customer EDI gateway,landing,Standard,reporting services,12,No,late invoice adjustment,26.8
+RPT018,Executive KPI Overview,trade program system,semantic model,Important,governance and training,5,No,none,26.0
+RPT020,Stakeholder Request Backlog,distributor reconciliation feed,warehouse model,Standard,governance and training,10,No,late invoice adjustment,26.0
+RPT009,Pricing Exception Digest,retailer POS feed,warehouse model,Standard,BI delivery,8,No,metric delay,25.2
+RPT010,Customer Onboarding Readiness,customer hierarchy master,warehouse model,Standard,reporting services,8,No,metric delay,25.2
+RPT012,Route-to-Market Snapshot,planning workbook intake,warehouse model,Important,BI delivery,3,No,none,25.2
+RPT030,Change Contribution Review,retailer POS feed,warehouse model,Standard,data strategy,7,No,incorrect segmentation,24.8
+RPT003,Retailer POS Sell-Through,customer hierarchy master,validation,Important,data strategy,0,No,none,24.0
+RPT030,Change Contribution Review,retailer POS feed,published report,Standard,customer data operations,2,No,incorrect segmentation,22.8
+RPT027,Metric Definition Catalog,distributor reconciliation feed,landing,Standard,BI delivery,0,No,metric delay,22.0
+RPT028,Variance Contribution Workbench,customer EDI gateway,warehouse model,Standard,finance analytics,28,No,none,21.2
+RPT032,External Reporting Package,trade program system,landing,Standard,finance analytics,13,No,none,15.2
+RPT030,Change Contribution Review,retailer POS feed,semantic model,Standard,data strategy,9,No,none,13.6
